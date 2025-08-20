@@ -707,6 +707,8 @@ A collection of resources focused on A/B testing.
 
 A collection of resources to help you learn and apply machine learning concepts and techniques.
 
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
+- [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 - [100 Days of ML Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - A comprehensive coding challenge to learn machine learning over 100 days.
 - [Microsoft ML for Beginners](https://github.com/microsoft/ML-For-Beginners) - A beginner-friendly introduction to machine learning concepts and practices.
 - [Made With ML](https://github.com/GokuMohandas/Made-With-ML) - Resource for building and deploying machine learning applications.
