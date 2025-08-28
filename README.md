@@ -1043,6 +1043,7 @@ A collection of cheatsheets across various domains to aid in quick reference and
 
 A wide range of resources designed to facilitate learning, development, and exploration across different domains.
 
+- [Awesome Business Intelligence](https://github.com/thenaturalist/awesome-business-intelligence) - Actively curated list of awesome BI tools.
 - [Growth.Design](https://growth.design/) - A collection of product case studies and behavioral psychology insights for data-driven decision-making.
 - [Jupyter Book](https://github.com/executablebooks/jupyter-book) -  Create beautiful, publication-quality books and documents from computational content.
 - [Awesome Quarto](https://github.com/mcanouil/awesome-quarto) - A curated list of Quarto resources, including talks, tools, examples, and articles. Contributions are welcome!
