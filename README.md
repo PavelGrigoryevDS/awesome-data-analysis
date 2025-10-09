@@ -11,16 +11,7 @@ Perfect for beginners and experienced data analysts and scientists.
 
 **🌱 Want to improve?** [Suggest here](https://github.com/PavelGrigoryevDS/awesome-data-analysis/issues/16) or [Welcome to Discussions](https://github.com/PavelGrigoryevDS/awesome-data-analysis/discussions)
 
-🌟 **Goal: 100 stars!** Help others find this curated collection ![GitHub stars](https://img.shields.io/github/stars/PavelGrigoryevDS/awesome-data-analysis?style=social)
-
----
-
-## ✨ Why Awesome Data Analysis?
-
-- Covers **end-to-end data workflow**: from Python/SQL fundamentals to ML deployment
-- Focuses on **modern tools** used in industry
-- Includes **hand-picked quality content** - no fluff
-- Will be **regularly updated**
+🌟 **Goal: 250 stars!** Join us in making data analysis learning more accessible! ![GitHub stars](https://img.shields.io/github/stars/PavelGrigoryevDS/awesome-data-analysis?style=social)
 
 Maintained with ❤️
 
@@ -566,6 +557,11 @@ A selection of resources focused on statistics and probability, including tutori
 - [Stat Trek](https://stattrek.com/) - A resource for learning statistics and probability, with tutorials and tools.
 - [Online Statistics Book](https://onlinestatbook.com/2/index.html) - An interactive online statistics book with simulations and demonstrations.
 - [All of Statistics](https://github.com/telmo-correa/all-of-statistics) - Resource for studying statistics based on Wasserman's book.
+- [Forecasting: Principles and Practice](https://otexts.com/fpp3/) - Comprehensive textbook on time series forecasting with R examples.
+- [Think Stats](https://github.com/AllenDowney/ThinkStats/tree/v3) - Book and code for an introduction to Probability and Statistics.
+- [Think Bayes 2](https://github.com/AllenDowney/ThinkBayes2) - Book and code for Bayesian statistical methods.
+- [Causal Inference: The Mixtape](https://mixtape.scunning.com/) - Practical guide to causal inference methods.
+- [The Effect](https://theeffectbook.net/) - Modern introduction to causality and research design.
   
 [⬆ back to top](#contents)
 
