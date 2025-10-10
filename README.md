@@ -304,6 +304,7 @@ SQL tutorials and database design principles.
 - [Awesome Clickhouse](https://github.com/korchasa/awesome-clickhouse) - A curated list of awesome ClickHouse software.
 - [Awesome SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy) - A curated list of awesome tools for SQLAlchemy.
 - [Awesome Sql](https://github.com/danhuss/awesome-sql) - List of tools and techniques for working with relational databases.
+- [Practice Window Functions](https://www.practicewindowfunctions.com) – Free interactive SQL tutorial site focused on mastering window functions through 80+ hands-on problems with hints and solutions.
   
 [⬆ back to top](#contents)
 
