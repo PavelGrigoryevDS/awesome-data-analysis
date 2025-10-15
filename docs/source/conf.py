@@ -32,7 +32,10 @@ sys.path.insert(0, os.path.abspath(".."))
 extensions = [
     "myst_parser",
     "sphinx.ext.autodoc",
+    "sphinxcontrib.googleanalytics",    
 ]
+
+googleanalytics_id = "G-7F2KF0GZ6R"
 
 html_sidebars = {"**": []}
 

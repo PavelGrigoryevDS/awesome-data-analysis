@@ -1,3 +1,4 @@
 sphinx
 sphinx-book-theme
 myst-parser
+sphinxcontrib-googleanalytics
