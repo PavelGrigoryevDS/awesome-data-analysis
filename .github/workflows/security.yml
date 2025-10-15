@@ -1,0 +1,60 @@
+name: Security Scan
+on:
+  # Trigger on push and pull request events to the main branches
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  # Weekly scheduled scan every Monday at 02:00 UTC
+  schedule:
+    - cron: '0 2 * * 1'
+  # Allow manual triggering from GitHub Actions tab
+  workflow_dispatch:
+
+jobs:
+  analyze:
+    name: Analyze with CodeQL
+    runs-on: ubuntu-latest
+    
+    # Required permissions for GitHub Security features
+    permissions:
+      security-events: write  # Needed to upload security analysis results
+      actions: read           # Needed to read workflow information
+      contents: read          # Needed to checkout code and read repository contents
+
+    steps:
+      # Step 1: Checkout the repository code
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Fetch full history for better analysis
+          fetch-depth: 0
+
+      # Step 2: Initialize CodeQL with specified languages
+      - name: Initialize CodeQL
+        uses: github/codeql-action/init@v3
+        with:
+          # Languages to analyze. 
+          languages: python, javascript
+          
+          # Optional: Uncomment below for more advanced configuration
+          # queries: security-extended,security-and-quality
+          # build-mode: automatic
+
+      # Step 3: Autobuild the code (helps CodeQL understand project structure)
+      - name: Autobuild
+        uses: github/codeql-action/autobuild@v3
+
+      # Step 4: Perform the actual CodeQL analysis and upload results
+      - name: Perform CodeQL Analysis
+        uses: github/codeql-action/analyze@v3
+        with:
+          # Optional: Specify a category for the analysis
+          category: "security-scan"
+          
+          # Optional: Upload results even if analysis fails
+          # continue-on-error: true
+          
+        # Optional: Post-analysis step that could be added later
+        # env:
+        #   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
