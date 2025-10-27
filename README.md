@@ -272,6 +272,7 @@ A collection of Python libraries for efficient data manipulation, cleaning, visu
 
 #### Specialized Data Tools
 
+- [cuDF](https://github.com/rapidsai/cudf) - A GPU DataFrame library for loading, joining, and aggregating data.
 - [Faker](https://github.com/joke2k/faker) - Generates fake data for testing.
 - [Mimesis](https://github.com/lk-geimfari/mimesis) - Generates realistic test data.
 - [Geopy](https://github.com/geopy/geopy) - Geocoding addresses and calculating distances.
@@ -310,6 +311,7 @@ SQL tutorials and database design principles.
 - [Awesome Postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources.
 - [Awesome MySql](https://github.com/shlomi-noach/awesome-mysql) - A curated list of awesome MySQL software, libraries, tools and resources.
 - [Awesome Clickhouse](https://github.com/korchasa/awesome-clickhouse) - A curated list of awesome ClickHouse software.
+- [Awesome MongoDB](https://github.com/ramnes/awesome-mongodb) - A curated list of awesome MongoDB resources, libraries, tools, and applications.
 - [Awesome SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy) - A curated list of awesome tools for SQLAlchemy.
 - [Awesome Sql](https://github.com/danhuss/awesome-sql) - List of tools and techniques for working with relational databases.
 - [Practice Window Functions](https://www.practicewindowfunctions.com) – Free interactive SQL tutorial site focused on mastering window functions through 80+ hands-on problems with hints and solutions.
@@ -373,7 +375,8 @@ Color theory, chart selection guides, and storytelling tips.
 - [Cedric Scherer's DataViz Resources](https://www.cedricscherer.com/top/dataviz/) - A collection of top data visualization resources and inspiration.
 - [Information is Beautiful](https://informationisbeautiful.net/) - A site dedicated to visualizations that make complex ideas clear and engaging.
 - [Plottie](https://plottie.art/) - A vast library of scientific plots for visualization inspiration and ideas.
-
+- [Friends Don't Let Friends](https://github.com/cxli233/FriendsDontLetFriends) - A collection of bad data visualization practices and better alternatives.
+  
 [⬆ back to top](#contents)
 
 ---
@@ -467,6 +470,7 @@ A list of leading tools and platforms for data visualization and dashboard creat
 - [Metabase](https://www.metabase.com) - User-friendly open-source BI tool.
 - [Apache Superset](https://superset.apache.org) - Open-source data exploration and visualization platform.
 - [Preset](https://preset.io/) - A platform for modern business intelligence, providing a hosted version of Apache Superset.
+- [Metabase](https://github.com/metabase/metabase) - The simplest way to get analytics and business intelligence for everyone in your company.
 - [Redash](https://github.com/getredash/redash) - Tool for visualizing and sharing data insights.
 - [Grafana](https://grafana.com) - Dashboarding and monitoring tool.
 - [Datawrapper](https://www.datawrapper.de) - User-friendly chart and map creation tool.
@@ -505,9 +509,11 @@ A collection of valuable resources, tutorials, and libraries for web scraping wi
 
 A list of Python libraries and tools for web scraping.
 
+- [Requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library for Python.
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - A library for parsing HTML and XML documents.
 - [Selenium](https://github.com/SeleniumHQ/selenium) - A tool for automating web applications for testing purposes.
 - [Scrapy](https://scrapy.org/) - An open-source and collaborative web crawling framework for Python.
+- [Browser Use](https://github.com/browser-use/browser-use) - A library for browser automation and web scraping.
 - [Gerapy](https://github.com/Gerapy/Gerapy) - Distributed Crawler Management Framework based on Scrapy, Scrapyd, Django, and Vue.js.
 - [AutoScraper](https://github.com/alirezamika/autoscraper) - A smart, automatic, fast, and lightweight web scraper for Python.
 - [Feedparser](https://github.com/kurtmckee/feedparser) - A library to parse feeds in Python.
@@ -521,7 +527,8 @@ A list of Python libraries and tools for web scraping.
 - [Playwright](https://github.com/microsoft/playwright-python) - Python version of the Playwright browser automation library.
 - [PyQuery](https://github.com/gawel/pyquery) - A jQuery-like library for parsing HTML documents in Python.
 - [Helium](https://github.com/mherrmann/helium) - High-level Selenium wrapper for easier web automation.
-
+- [Scrapling](https://github.com/D4Vinci/Scrapling) - A framework for building web scrapers and crawlers.
+  
 [⬆ back to top](#contents)
 
 ---
@@ -829,7 +836,7 @@ A collection of tools for developing and deploying machine learning models.
 - [Skorch](https://github.com/skorch-dev/skorch) - Scikit-learn compatible neural network library.
 - [Sonnet](https://github.com/google-deepmind/sonnet) - DeepMind's library for building complex neural networks.
 - [JAX](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.  
-
+  
 [⬆ back to top](#contents)
 
 ---
@@ -902,6 +909,7 @@ A collection of resources focused on AI applications and platforms.
 
 - [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services.
+- [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) - Course on generative AI for beginners from Microsoft.
 - [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents) - A curated list of AI autonomous agents, environments, and frameworks.
 - [AI Collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications.
 - [Awesome AI Apps](https://github.com/Arindam200/awesome-ai-apps) - A collection of projects showcasing RAG, agents, workflows, and other AI use cases.
@@ -927,7 +935,7 @@ A collection of frameworks, platforms, and end-user applications for building an
 - [autogen](https://github.com/microsoft/autogen) - Framework for building multi-agent conversational systems.
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - Autonomous AI agent that can complete complex tasks.
 - [LangGraph](https://github.com/langchain-ai/langgraph) - Framework for building stateful, multi-actor applications with LLMs, with cycles and control flow.
-  
+    
 #### Development Frameworks & Tools
 
 - [LangChain](https://github.com/langchain-ai/langchain) - Framework for developing applications powered by language models.
@@ -936,6 +944,7 @@ A collection of frameworks, platforms, and end-user applications for building an
 - [openai-agents-python](https://github.com/openai/openai-agents-python) - Official OpenAI framework for building AI agents.
 - [ragflow](https://github.com/infiniflow/ragflow) - Open-source RAG (Retrieval-Augmented Generation) workflow platform.
 - [firecrawl](https://github.com/firecrawl/firecrawl) - Web crawling and data extraction service for AI applications.
+- [Fabric](https://github.com/danielmiessler/Fabric) - Framework for augmenting humans using AI.
 
 #### Code Generation & Assistance
 
@@ -1003,6 +1012,7 @@ Tools for containerization, orchestration, infrastructure as code, and cloud-nat
 #### Containerization & Orchestration
 
 - [Docker](https://github.com/docker) - Open platform for developing, shipping, and running applications in containers.
+- [Docker Compose](https://github.com/docker/compose) - A tool for defining and running multi-container Docker applications.
 - [Kubernetes](https://github.com/kubernetes/kubernetes) - Production-grade container orchestration system.
 - [Kompose](https://github.com/kubernetes/kompose) - Conversion tool from Docker Compose to Kubernetes.
 
@@ -1063,6 +1073,8 @@ Tools for containerization, orchestration, infrastructure as code, and cloud-nat
 
 A collection of resources to enhance productivity.
 
+- [Positron](https://github.com/posit-dev/positron) - A next-generation data science IDE.
+- [Nanobrowser](https://github.com/nanobrowser/nanobrowser) - An open-source AI web automation tool with multi-agent system that runs directly in your browser.
 - [Best of Jupyter](https://github.com/ml-tooling/best-of-jupyter) - Ranked list of notable Jupyter Notebook, Hub, and Lab projects.
 - [Notion](https://www.notion.com/) - An all-in-one workspace for note-taking and task management.
 - [Trello](https://trello.com/home) - A visual project management tool.
@@ -1189,6 +1201,7 @@ A collection of extensions to enhance functionality and productivity in Visual S
 
 A collection of resources to enhance skills and advance your career in data analysis and related fields.
 
+- [LeetCode](https://leetcode.com/problemset/) - A platform for preparing technical coding interviews.
 - [Kaggle Competitions](https://www.kaggle.com/competitions) - Platform for participating in data analysis and machine learning competitions.
 - [Makeovermonday](https://makeovermonday.co.uk/) - A platform focused on enhancing data visualization practices.
 - [Workout Wednesday](https://workout-wednesday.com/) - Engage in weekly challenges to improve your visualization skills.
@@ -1444,6 +1457,7 @@ A collection of supplementary Python libraries that enhance development workflow
 
 ### Miscellaneous
 
+- [UV](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver.
 - [Funcy](https://github.com/Suor/funcy) - Fancy functional tools for Python.
 - [Pillow](https://github.com/python-pillow/Pillow) - Image processing library.
 - [Ftfy](https://github.com/rspeer/python-ftfy) - Fixes broken Unicode strings.
@@ -1470,14 +1484,19 @@ A collection of supplementary Python libraries that enhance development workflow
 
 A curated list of other awesome lists on various topics and technologies.
 
+- [Awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
+- [Awesome Big Data](https://github.com/oxnr/awesome-bigdata) - A curated list of awesome big data frameworks, resources, and tools.
+- [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial) - A curated list of awesome geospatial libraries, tools, and resources.
 - [Awesome Chatgpt Prompts](https://github.com/f/awesome-chatgpt-prompts) - A repository for ChatGPT prompt curation.
 - [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter) - Curated list of Jupyter projects, libraries, and resources.
 - [Awesome Business Intelligence](https://github.com/thenaturalist/awesome-business-intelligence) - Actively curated list of awesome BI tools.
 - [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - A curated list of resources for prompt engineering with LLMs like ChatGPT.
+- [Awesome Product Design](https://github.com/ttt30ga/awesome-product-design) - A collection of bookmarks, resources, articles about product design.
+- [Awesome Shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, and guides.
+- [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome FastAPI frameworks, libraries, and resources.
 - [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications and tools for Linux.
 - [Awesome Product Management](https://github.com/dend/awesome-product-management) - A curated list of resources for product managers and aspiring PMs.
 - [Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications) - A list of free software and applications written in Python.
-- [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi) - A curated list of FastAPI frameworks, libraries, and resources.
 - [Awesome AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) - A curated list of awesome AutoHotkey libraries, scripts, and resources.
 - [Awesome Productivity](https://github.com/jyguyomarch/awesome-productivity) - A curated list of delightful productivity resources.
 - [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing) - A curated list of resources for scientific writing, publishing, and research.
