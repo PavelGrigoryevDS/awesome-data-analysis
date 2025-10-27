@@ -314,7 +314,7 @@ SQL tutorials and database design principles.
 - [Awesome MongoDB](https://github.com/ramnes/awesome-mongodb) - A curated list of awesome MongoDB resources, libraries, tools, and applications.
 - [Awesome SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy) - A curated list of awesome tools for SQLAlchemy.
 - [Awesome Sql](https://github.com/danhuss/awesome-sql) - List of tools and techniques for working with relational databases.
-- [Practice Window Functions](https://www.practicewindowfunctions.com) – Free interactive SQL tutorial site focused on mastering window functions through 80+ hands-on problems with hints and solutions.
+- [Practice Window Functions](https://www.practicewindowfunctions.com) - Free interactive SQL tutorial site focused on mastering window functions through 80+ hands-on problems with hints and solutions.
   
 [⬆ back to top](#contents)
 
@@ -406,7 +406,7 @@ Libraries for static, interactive, and 3D visualizations.
 - [VisPy](https://github.com/vispy/vispy) - A high-performance interactive 2D/3D data visualization library leveraging the power of OpenGL.
 - [Glumpy](https://github.com/glumpy/glumpy) - A Python library for scientific visualization that is fast, scalable and beautiful, based on OpenGL.
 - [Pandas-bokeh](https://github.com/PatrikHlobil/Pandas-Bokeh) - Bokeh plotting backend for Pandas.
-        
+
 [⬆ back to top](#contents)
 
 ---
@@ -917,7 +917,7 @@ A collection of resources focused on AI applications and platforms.
 - [Awesome LangChain](https://github.com/kyrolabs/awesome-langchain) - Awesome list of tools and projects with the awesome LangChain framework.
 - [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools.
 - [Awesome LLM Security](https://github.com/corca-ai/awesome-llm-security) - A curation of awesome tools, documents and projects about LLM Security.
-    
+
 [⬆ back to top](#contents)
 
 ---
@@ -935,7 +935,7 @@ A collection of frameworks, platforms, and end-user applications for building an
 - [autogen](https://github.com/microsoft/autogen) - Framework for building multi-agent conversational systems.
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - Autonomous AI agent that can complete complex tasks.
 - [LangGraph](https://github.com/langchain-ai/langgraph) - Framework for building stateful, multi-actor applications with LLMs, with cycles and control flow.
-    
+
 #### Development Frameworks & Tools
 
 - [LangChain](https://github.com/langchain-ai/langchain) - Framework for developing applications powered by language models.
@@ -1292,7 +1292,7 @@ A variety of resources to help you prepare for interviews and enhance your resum
 
 ## 📋 Cheatsheets
 
-A collection of cheatsheets across various domains to aid in quick reference and learning. 
+A collection of cheatsheets across various domains to aid in quick reference and learning.
 
 <a id="cheatsheets-goalkicker"></a>
 
@@ -1473,7 +1473,7 @@ A collection of supplementary Python libraries that enhance development workflow
 - [Click](https://github.com/pallets/click) - Beautiful command line interfaces.
 - [Poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging.
 - [Hydra](https://github.com/facebookresearch/hydra) - Elegant configuration management.
-    
+
 [⬆ back to top](#contents)
 
 ---
@@ -1530,7 +1530,7 @@ A wide range of resources designed to facilitate learning, development, and expl
 - [Zasper](https://github.com/zasper-io/zasper) - High Performace IDE for Jupyter Notebooks.
 - [Sketch](https://www.sketch.com/) - Toolkit designed for designers, focusing on their workflow.
 - [Growth.Design](https://growth.design/) - A collection of product case studies and behavioral psychology insights for data-driven decision-making.
-                 
+       
 [⬆ back to top](#contents)
 
 ---
