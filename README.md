@@ -429,6 +429,7 @@ Ttutorials for building and enhancing dashboards and visualizations using variou
 - [Dash Enterprise Samples](https://github.com/plotly/dash-sample-apps) - Production-ready Dash apps.
 - [geeksforgeeks - Tableau Tutorial](https://www.geeksforgeeks.org/tableau-tutorial/) - Comprehensive tutorial on Tableau.
 - [geeksforgeeks - Power BI Tutorial](https://www.geeksforgeeks.org/power-bi-tutorial/) - Detailed tutorial on Power BI.
+- [DAX Reimagined (book)](https://www.manning.com/books/dax-reimagined) - A book that teaches how to use DAX as an interactive logic engine.
 
 [⬆ back to top](#contents)
 
