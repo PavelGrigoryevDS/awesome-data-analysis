@@ -1076,6 +1076,7 @@ A collection of resources to enhance productivity.
 - [Positron](https://github.com/posit-dev/positron) - A next-generation data science IDE.
 - [Nanobrowser](https://github.com/nanobrowser/nanobrowser) - An open-source AI web automation tool with multi-agent system that runs directly in your browser.
 - [Best of Jupyter](https://github.com/ml-tooling/best-of-jupyter) - Ranked list of notable Jupyter Notebook, Hub, and Lab projects.
+- [Deepnote](https://deepnote.com/) - AI native data science notebook platform compatible with Jupyter, featuring real-time collaboration, environment management, and integrations.
 - [Notion](https://www.notion.com/) - An all-in-one workspace for note-taking and task management.
 - [Trello](https://trello.com/home) - A visual project management tool.
 - [ChatGPT Data Science Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) - A collection of useful prompts for data scientists using ChatGPT.
