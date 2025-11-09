@@ -151,7 +151,8 @@ A collection of resources for learning and mastering Python programming.
 - [GeeksforGeeks Python](https://www.geeksforgeeks.org/python-programming-language-tutorial/) - Python tutorial from GeeksforGeeks.
 - [W3Schools Python](https://www.w3schools.com/python/) - A beginner-friendly tutorial and reference for the Python programming language.
 - [Tanu N Prabhu Python](https://github.com/Tanu-N-Prabhu/Python/tree/master) - This repository helps you understand Python from scratch.
-
+- [Think Python](https://github.com/AllenDowney/ThinkPython) - Jupyter notebooks and other resources for Think Python by Allen Downey.
+  
 [⬆ back to top](#contents)
 
 ---
@@ -315,7 +316,8 @@ SQL tutorials and database design principles.
 - [Awesome SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy) - A curated list of awesome tools for SQLAlchemy.
 - [Awesome Sql](https://github.com/danhuss/awesome-sql) - List of tools and techniques for working with relational databases.
 - [Practice Window Functions](https://www.practicewindowfunctions.com) - Free interactive SQL tutorial site focused on mastering window functions through 80+ hands-on problems with hints and solutions.
-  
+- [AnimateSQL](https://animatesql.com/) - Interactive tool that visualizes the step-by-step execution of SQL queries.
+    
 [⬆ back to top](#contents)
 
 ---
@@ -376,7 +378,9 @@ Color theory, chart selection guides, and storytelling tips.
 - [Information is Beautiful](https://informationisbeautiful.net/) - A site dedicated to visualizations that make complex ideas clear and engaging.
 - [Plottie](https://plottie.art/) - A vast library of scientific plots for visualization inspiration and ideas.
 - [Friends Don't Let Friends](https://github.com/cxli233/FriendsDontLetFriends) - A collection of bad data visualization practices and better alternatives.
-  
+- [Natural Colours](https://www.c82.net/natural-colors/) - A digital archive of historical color systems and pigments.
+- [Colorgorical](http://vrl.cs.brown.edu/color) - Resource for generating categorical color palettes using perceptual principles.
+    
 [⬆ back to top](#contents)
 
 ---
@@ -577,7 +581,7 @@ A selection of resources focused on statistics and probability, including tutori
 - [Think Bayes 2](https://github.com/AllenDowney/ThinkBayes2) - Book and code for Bayesian statistical methods.
 - [Causal Inference: The Mixtape](https://mixtape.scunning.com/) - Practical guide to causal inference methods.
 - [The Effect](https://theeffectbook.net/) - Modern introduction to causality and research design.
-  
+    
 [⬆ back to top](#contents)
 
 ---
@@ -619,7 +623,8 @@ A collection of resources focused on A/B testing.
 - [Evan's Awesome A/B Tools](https://www.evanmiller.org/ab-testing/) - A/B test calculators.
 - [Experimentguide](https://experimentguide.com/) - A practical guide to A/B testing and experimentation from industry leaders.
 - [Google's A/B Testing Course](https://www.udacity.com/course/ab-testing--ud257) - A free Udacity course covering the fundamentals of A/B testing.
-  
+- [So You Think You Can Test?](https://www.lukasvermeer.nl/confidence/) - Experience the challenges of A/B testing through this educational simulation.
+    
 [⬆ back to top](#contents)
 
 ---
@@ -739,7 +744,8 @@ A selection of resources for learning and applying natural language processing i
 - [NLTK Book](https://www.nltk.org/book/) - Natural Language Processing with Python.
 - [NLP with Python by Susan Li](https://github.com/susanli2016/NLP-with-Python) - Jupyter notebooks demonstrating various NLP techniques and applications.
 - [Hands on NLTK Tutorial](https://github.com/hb20007/hands-on-nltk-tutorial) - The hands-on NLTK tutorial for NLP in Python.
-
+- [YSDA NLP Course](https://github.com/yandexdataschool/nlp_course) - Yandex School of Data Analysis course on Natural Language Processing.
+  
 [⬆ back to top](#contents)
 
 ---
@@ -762,7 +768,8 @@ A collection of powerful libraries and frameworks for natural language processin
 - [Gensim](https://github.com/piskvorky/gensim) - Topic modeling and natural language processing library for Python.
 - [Stanza](https://github.com/stanfordnlp/stanza) - Python NLP library for many human languages, from the Stanford NLP Group.
 - [SentenceTransformers](https://github.com/UKPLab/sentence-transformers) - Framework for state-of-the-art sentence and text embeddings.
-
+- [LangExtract](https://github.com/google/langextract) - Google's library for structured information extraction from text using language models.
+  
 [⬆ back to top](#contents)
 
 ---
@@ -793,7 +800,8 @@ A collection of resources to help you learn and apply machine learning concepts 
 - [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A comprehensive guide to generative AI models, tools, and applications.
 - [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) - A curated list of papers, projects, and resources related to Large Language Models.
 - [Machine Learning with Python by Susan Li](https://github.com/susanli2016/Machine-Learning-with-Python) - Jupyter notebooks covering various machine learning algorithms and applications.
-
+- [Understanding Deep Learning](https://udlbook.github.io/udlbook/) - Comprehensive and accessible textbook on deep learning fundamentals.
+  
 [⬆ back to top](#contents)
 
 ---
@@ -1076,7 +1084,7 @@ A collection of resources to enhance productivity.
 - [Positron](https://github.com/posit-dev/positron) - A next-generation data science IDE.
 - [Nanobrowser](https://github.com/nanobrowser/nanobrowser) - An open-source AI web automation tool with multi-agent system that runs directly in your browser.
 - [Best of Jupyter](https://github.com/ml-tooling/best-of-jupyter) - Ranked list of notable Jupyter Notebook, Hub, and Lab projects.
-- [Deepnote](https://deepnote.com/) - AI native data science notebook platform compatible with Jupyter, featuring real-time collaboration, environment management, and integrations.
+- [Deepnote](https://github.com/deepnote/deepnote) - AI native data science notebook platform compatible with Jupyter, featuring real-time collaboration, environment management, and integrations.
 - [Notion](https://www.notion.com/) - An all-in-one workspace for note-taking and task management.
 - [Trello](https://trello.com/home) - A visual project management tool.
 - [ChatGPT Data Science Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) - A collection of useful prompts for data scientists using ChatGPT.
@@ -1084,6 +1092,7 @@ A collection of resources to enhance productivity.
 - [The Markdown Guide](https://www.markdownguide.org/) - Comprehensive guide to learning Markdown.
 - [Readme-AI](https://github.com/eli64s/readme-ai) - A tool to automatically generate README.md files for your projects.
 - [Markdown Here](https://github.com/adam-p/markdown-here) - Extension for writing emails in Markdown and rendering them before sending.
+- [Codebeautify](https://codebeautify.org/) - All-in-one online code formatter and beautifier for Python, SQL, JSON, and more.
 - [Habitica](https://github.com/HabitRPG/habitica) - A habit-building and productivity app that treats your life like a role-playing game.
 - [Microsoft To Do](https://to-do.office.com/tasks/) - A simple to-do list app from Microsoft.
 - [Google Keep](https://keep.google.com/) - A note-taking and list-making app.
@@ -1284,7 +1293,8 @@ A variety of resources to help you prepare for interviews and enhance your resum
 - [Enhancv Data Scientist Resumes](https://enhancv.com/resume-examples/data-scientist/) - A collection of resume examples and tips tailored for data scientists.
 - [Data Science Portfolio](https://www.datascienceportfol.io/) - A platform to create and showcase your data science portfolio.
 - [InterviewBit - SQL Interview Questions](https://www.interviewbit.com/sql-interview-questions/) - Collection of SQL interview questions.
-
+- [StrataScratch](https://www.stratascratch.com/) - Platform with real data science interview questions from top companies.
+  
 [⬆ back to top](#contents)
 
 ---
@@ -1531,7 +1541,7 @@ A wide range of resources designed to facilitate learning, development, and expl
 - [Zasper](https://github.com/zasper-io/zasper) - High Performace IDE for Jupyter Notebooks.
 - [Sketch](https://www.sketch.com/) - Toolkit designed for designers, focusing on their workflow.
 - [Growth.Design](https://growth.design/) - A collection of product case studies and behavioral psychology insights for data-driven decision-making.
-       
+
 [⬆ back to top](#contents)
 
 ---
