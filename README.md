@@ -108,7 +108,7 @@ Curated collections of high-quality GitHub repos for inspiration and learning.
 - [Data Science Articles from CodeCut](https://github.com/CodeCutTech/Data-science) - A collection of articles, videos, and code related to data science.
 - [Data Science Using Python](https://github.com/WillKoehrsen/Data-Analysis) - Resources for data analysis using Python.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -126,7 +126,7 @@ Step-by-step guides and skill trees to master data science and analytics.
 - [Data Science Roadmap Tutorials](https://github.com/MrMimic/data-scientist-roadmap) - Tutorials for the data science roadmap.
 - [Data Analyst Roadmap from Zero](https://github.com/mtahiraslan/data-analyst-roadmap) - Guide to becoming a data analyst from scratch.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -153,7 +153,7 @@ A collection of resources for learning and mastering Python programming.
 - [Tanu N Prabhu Python](https://github.com/Tanu-N-Prabhu/Python/tree/master) - This repository helps you understand Python from scratch.
 - [Think Python](https://github.com/AllenDowney/ThinkPython) - Jupyter notebooks and other resources for Think Python by Allen Downey.
   
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -173,7 +173,7 @@ Tutorials and best practices for working with Pandas and Numpy.
 - [From Python to Numpy](https://github.com/rougier/from-python-to-numpy) - An open-access book on vectorization and efficient numerical computing with NumPy.
 - [NumPy 100 Exercises](https://github.com/rougier/numpy-100) - A collection of 100 exercises to master the NumPy library for scientific computing.
   
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -207,7 +207,7 @@ A collection of Python libraries for efficient data manipulation, cleaning, visu
 - [Pandas Stubs](https://github.com/pandas-dev/pandas-stubs) - Type stubs for pandas, improves IDE autocompletion.
 - [Petl](https://github.com/petl-developers/petl) - ETL tool for data cleaning and transformation.
   
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -233,7 +233,7 @@ A collection of Python libraries for efficient data manipulation, cleaning, visu
 - [QGrid](https://github.com/quantopian/qgrid) - Interactive grid for DataFrames in Jupyter.
 - [Pivottablejs](https://github.com/nicolaskruchten/jupyter_pivottablejs) - Interactive PivotTable.js tables in Jupyter.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -249,7 +249,7 @@ A collection of Python libraries for efficient data manipulation, cleaning, visu
 - [Dora](https://github.com/NathanEpstein/Dora) - Automate EDA: preprocessing, feature engineering, visualization.
 - [Great Expectations](https://github.com/great-expectations/great_expectations) - Data validation and testing.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -265,7 +265,7 @@ A collection of Python libraries for efficient data manipulation, cleaning, visu
 - [Category Encoders](https://github.com/scikit-learn-contrib/category_encoders) - Extensive collection of categorical variable encoders.
 - [Imbalanced Learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - Handling imbalanced datasets.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -287,7 +287,7 @@ A collection of Python libraries for efficient data manipulation, cleaning, visu
 - [Geopandas](https://github.com/geopandas/geopandas) - Geographic data operations with pandas.
 - [NetworkX](https://github.com/networkx/networkx) - Network analysis and graph theory.
   
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -309,17 +309,19 @@ SQL tutorials and database design principles.
 - [MySQL Tutorial by W3Resource](https://www.w3resource.com/mysql/mysql-tutorials.php) - Tutorial for MySQL.
 - [MongoDB Tutorial by W3Resource](https://www.w3resource.com/mongodb/nosql.php) - Tutorial for MongoDB.
 - [EverSQL](https://www.eversql.com/) - AI-powered SQL query optimization and database observability tool.
+- [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning) - Educational resources on database internals, distributed systems, and storage.
 - [Awesome Postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources.
 - [Awesome MySql](https://github.com/shlomi-noach/awesome-mysql) - A curated list of awesome MySQL software, libraries, tools and resources.
 - [Awesome Clickhouse](https://github.com/korchasa/awesome-clickhouse) - A curated list of awesome ClickHouse software.
 - [Awesome MongoDB](https://github.com/ramnes/awesome-mongodb) - A curated list of awesome MongoDB resources, libraries, tools, and applications.
+- [Awesome Duckdb](https://github.com/davidgasquez/awesome-duckdb) - Curated tools, resources, and extensions for DuckDB analytical database.
 - [Awesome SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy) - A curated list of awesome tools for SQLAlchemy.
 - [Awesome Sql](https://github.com/danhuss/awesome-sql) - List of tools and techniques for working with relational databases.
-- [Practice Window Functions](https://www.practicewindowfunctions.com) - Free interactive SQL tutorial site focused on mastering window functions through 80+ hands-on problems with hints and solutions.
 - [AnimateSQL](https://animatesql.com/) - Interactive tool that visualizes the step-by-step execution of SQL queries.
 - [SQL Tips and Tricks](https://github.com/ben-nour/SQL-tips-and-tricks) - Useful SQL techniques and optimizations for data analysis.
+- [Practice Window Functions](https://www.practicewindowfunctions.com) - Free interactive SQL tutorial site focused on mastering window functions through 80+ hands-on problems with hints and solutions.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -351,7 +353,7 @@ A collection of libraries and drivers for seamless database access and interacti
 - [TimescaleDB](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.
 - [DuckDB](https://github.com/duckdb/duckdb) - In-memory analytical database for fast SQL queries.
   
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -383,7 +385,7 @@ Color theory, chart selection guides, and storytelling tips.
 - [Natural Colours](https://www.c82.net/natural-colors/) - A digital archive of historical color systems and pigments.
 - [Colorgorical](http://vrl.cs.brown.edu/color) - Resource for generating categorical color palettes using perceptual principles.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -413,7 +415,7 @@ Libraries for static, interactive, and 3D visualizations.
 - [Glumpy](https://github.com/glumpy/glumpy) - A Python library for scientific visualization that is fast, scalable and beautiful, based on OpenGL.
 - [Pandas-bokeh](https://github.com/PatrikHlobil/Pandas-Bokeh) - Bokeh plotting backend for Pandas.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -436,7 +438,7 @@ Ttutorials for building and enhancing dashboards and visualizations using variou
 - [geeksforgeeks - Tableau Tutorial](https://www.geeksforgeeks.org/tableau-tutorial/) - Comprehensive tutorial on Tableau.
 - [geeksforgeeks - Power BI Tutorial](https://www.geeksforgeeks.org/power-bi-tutorial/) - Detailed tutorial on Power BI.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -448,7 +450,7 @@ Frameworks for building custom dashboard solutions.
 
 - [Dash](https://github.com/plotly/dash) - Framework for creating interactive web applications.
 - [Streamlit](https://github.com/streamlit/streamlit) - Simplified framework for building data applications.
-- [Panel](https://panel.holoviz.org/) - Framework for creating interactive web applications.
+- [Panel](https://github.com/holoviz/panel) - Python library for creating custom interactive web apps and dashboards.
 - [Gradio](https://github.com/gradio-app/gradio) - Tool for creating and sharing machine learning applications.
 - [OpenSearch Dashboards](https://github.com/opensearch-project/OpenSearch-Dashboards) - A powerful data visualization and dashboarding tool for OpenSearch data, forked from Kibana.
 - [GridStack.js](https://github.com/gridstack/gridstack.js) - A library for building draggable, resizable responsive dashboard layouts.
@@ -459,8 +461,10 @@ Frameworks for building custom dashboard solutions.
 - [Shiny for Python](https://github.com/posit-dev/py-shiny) - Python version of the popular R Shiny framework.
 - [Voilà](https://github.com/voila-dashboards/voila) - Turn Jupyter notebooks into standalone web applications.
 - [Reflex](https://github.com/reflex-dev/reflex) - Full-stack Python framework for building web apps.
+- [Taipy](https://github.com/Avaiga/taipy) - Python library for building web applications and interactive dashboards.
+- [Evidence](https://github.com/evidence-dev/evidence) - Business intelligence platform that uses SQL and Markdown for reports.
   
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -486,7 +490,7 @@ A list of leading tools and platforms for data visualization and dashboard creat
 - [Rath](https://github.com/Kanaries/Rath) - Next-generation automated data exploratory analysis and visualization platform.
 - [Kibana](https://github.com/elastic/kibana) - The official visualization and dashboarding tool for the Elastic Stack (Elasticsearch, Logstash, Beats).
   
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -505,7 +509,7 @@ A collection of valuable resources, tutorials, and libraries for web scraping wi
 - [Scraping Tutorial](https://github.com/Blatzar/scraping-tutorial) - Tutorial for scraping streaming sites.
 - [Webscraping from 0 to Hero](https://github.com/TheWebScrapingClub/webscraping-from-0-to-hero) - An open project repository sharing knowledge and experiences about web scraping with Python.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -536,7 +540,7 @@ A list of libraries and tools for web scraping.
 - [Scrapling](https://github.com/D4Vinci/Scrapling) - A framework for building web scrapers and crawlers.
 - [Crawl4AI](https://github.com/unclecode/crawl4ai) - Advanced web crawling framework designed for AI and data extraction tasks.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -554,7 +558,7 @@ A collection of resources for learning mathematics, particularly in the context 
 - [Stats Maths with Python](https://github.com/tirthajyoti/Stats-Maths-with-Python) - Collection of Python scripts and notebooks for statistics and mathematics.
 - [Fast.ai - Computational Linear Algebra](https://github.com/fastai/numerical-linear-algebra) - Resource for learning linear algebra computationally.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -585,7 +589,7 @@ A selection of resources focused on statistics and probability, including tutori
 - [Causal Inference: The Mixtape](https://mixtape.scunning.com/) - Practical guide to causal inference methods.
 - [The Effect](https://theeffectbook.net/) - Modern introduction to causality and research design.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -613,7 +617,7 @@ A collection of tools focused on statistics and probability.
 - [Pomegranate](https://github.com/jmschrei/pomegranate) - Fast and flexible probabilistic modeling library for Python with GPU support.
 - [Pgmpy](https://github.com/pgmpy/pgmpy) - Python library for probabilistic and causal inference using graphical models.
   
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -629,7 +633,7 @@ A collection of resources focused on A/B testing.
 - [Google's A/B Testing Course](https://www.udacity.com/course/ab-testing--ud257) - A free Udacity course covering the fundamentals of A/B testing.
 - [So You Think You Can Test?](https://www.lukasvermeer.nl/confidence/) - Experience the challenges of A/B testing through this educational simulation.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -649,7 +653,7 @@ A collection of resources for understanding time series fundamentals and analyti
 - [Awesome Time Series Anomaly Detection](https://github.com/rob-med/awesome-TS-anomaly-detection) - A curated list of tools, datasets, and papers dedicated to time series anomaly detection.
 - [Awesome Time Series in Python](https://github.com/MaxBenChrist/awesome_time_series_in_python) - A comprehensive list of Python tools and libraries for time series analysis.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -672,7 +676,7 @@ A collection of tools for working with temporal data.
 - [pmdarima](https://github.com/alkaline-ml/pmdarima) - Python library for ARIMA modeling and time series analysis.
 - [Kats](https://github.com/facebookresearch/Kats) - Toolkit for analyzing time series data from Facebook Research.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -693,7 +697,7 @@ A collection of resources to help you build and manage robust data pipelines and
 - [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) - A curated list of pipeline toolkits for data processing and workflow management.
 - [Awesome DB Tools](https://github.com/mgramin/awesome-db-tools) - A curated list of awesome database tools.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -727,7 +731,7 @@ A collection of tools for building, deploying, and managing data pipelines and i
 - [Apache Arrow](https://github.com/apache/arrow) - Universal columnar format and multi-language toolbox for fast data interchange.
 - [Kestra](https://github.com/kestra-io/kestra) - An open-source, event-driven orchestrator that simplifies data workflow management.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -751,7 +755,7 @@ A selection of resources for learning and applying natural language processing i
 - [YSDA NLP Course](https://github.com/yandexdataschool/nlp_course) - Yandex School of Data Analysis course on Natural Language Processing.
 - [The NLP Pandect](https://github.com/ivan-bilan/The-NLP-Pandect) - Comprehensive NLP guide covering theory, models, and practical implementations.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -776,7 +780,7 @@ A collection of powerful libraries and frameworks for natural language processin
 - [LangExtract](https://github.com/google/langextract) - Google's library for structured information extraction from text using language models.
 - [Rasa](https://github.com/RasaHQ/rasa) - Open-source framework for building contextual AI assistants and chatbots.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -802,14 +806,17 @@ A collection of resources to help you learn and apply machine learning concepts 
 - [100 Days of ML Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - A comprehensive coding challenge to learn machine learning over 100 days.
 - [Made With ML](https://github.com/GokuMohandas/Made-With-ML) - Resource for building and deploying machine learning applications.
 - [Handson-ml3](https://github.com/ageron/handson-ml3) - Hands-on guide to machine learning and deep learning using Python.
+- [AI For Beginners](https://github.com/microsoft/AI-For-Beginners) - Microsoft's curriculum on artificial intelligence.
 - [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Educational repository for building LLMs from scratch.
 - [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A comprehensive guide to generative AI models, tools, and applications.
 - [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) - A curated list of papers, projects, and resources related to Large Language Models.
 - [Machine Learning with Python by Susan Li](https://github.com/susanli2016/Machine-Learning-with-Python) - Jupyter notebooks covering various machine learning algorithms and applications.
 - [Understanding Deep Learning](https://udlbook.github.io/udlbook/) - Comprehensive and accessible textbook on deep learning fundamentals.
 - [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Curated roadmap of seminal deep learning papers for newcomers.
-  
-[⬆ back to top](#contents)
+- [Applied ML](https://github.com/eugeneyan/applied-ml) - Curated resources and tools for applied machine learning in industry.
+- [Annotated deep learning paper implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - Implementations of deep learning papers with annotated code.
+        
+[⬆ back to contents](#contents)
 
 ---
 
@@ -853,7 +860,7 @@ A collection of tools for developing and deploying machine learning models.
 - [JAX](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.  
 - [TensorFlow Models](https://github.com/tensorflow/models) - Official TensorFlow repository with models and examples.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -876,7 +883,7 @@ Materials and curated lists for machine learning operations.
 - [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of tools for deploying, monitoring, and maintaining ML systems in production.
 - [Llama Cookbook](https://github.com/meta-llama/llama-cookbook) - Official recipes and examples for working with Llama models.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -909,7 +916,7 @@ Platforms and utilities for deploying, monitoring, and maintaining ML systems.
 - [Jina AI Serve](https://github.com/jina-ai/serve) - Framework for building and deploying AI services that communicate via gRPC, HTTP and WebSockets.
 - [LiteLLM](https://github.com/BerriAI/litellm) - Unified interface to call all LLM APIs (OpenAI, Anthropic, Cohere, etc.) with consistent output formatting.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -925,17 +932,29 @@ A collection of resources focused on AI applications and platforms.
 
 - [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services.
+- [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners) - Microsoft's course on designing and building AI agents.
 - [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) - Course on generative AI for beginners from Microsoft.
+- [LLM Course](https://github.com/mlabonne/llm-course) - Practical course to master large language models from start to finish.
 - [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents) - A curated list of AI autonomous agents, environments, and frameworks.
 - [AI Collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications.
 - [Awesome AI Apps](https://github.com/Arindam200/awesome-ai-apps) - A collection of projects showcasing RAG, agents, workflows, and other AI use cases.
 - [System Prompts and Models](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - System Prompts, Internal Tools & AI Models from various AI applications and coding tools.
+- [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques) - Collection of advanced techniques for Retrieval-Augmented Generation.
 - [Awesome LangChain](https://github.com/kyrolabs/awesome-langchain) - Awesome list of tools and projects with the awesome LangChain framework.
 - [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools.
 - [Awesome LLM Security](https://github.com/corca-ai/awesome-llm-security) - A curation of awesome tools, documents and projects about LLM Security.
 - [Claude Cookbooks](https://github.com/anthropics/claude-cookbooks) - Official Anthropic examples and recipes for working with Claude AI.
-  
-[⬆ back to top](#contents)
+- [Hands On Large Language Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Covers LLM fundamentals, prompt engineering, and fine-tuning.  
+- [AI Engineering Hub](https://github.com/patchy631/ai-engineering-hub) - Resources for building, deploying, and maintaining AI systems.
+- [Agents Towards Production](https://github.com/NirDiamant/agents-towards-production) - Code-first tutorials for building production-grade GenAI agents.
+- [LLM Engineer Toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) - Curated list of 120+ LLM libraries across various categories.
+- [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents) - Repository of AI agent implementations and tutorials.  
+- [AI Notes](https://github.com/swyxio/ai-notes) - Personal notes and essays on AI and software development.
+- [Open LLMs](https://github.com/eugeneyan/open-llms) - Comprehensive list of open-source large language models and their capabilities.
+- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guides, papers, and resources for prompt engineering with LLMs.
+- [Prompt Engineering](https://github.com/NirDiamant/prompt_engineering) - Collection of prompt engineering techniques and strategies.
+
+[⬆ back to contents](#contents)
 
 ---
 
@@ -952,7 +971,8 @@ A collection of frameworks, platforms, and end-user applications for building an
 - [autogen](https://github.com/microsoft/autogen) - Framework for building multi-agent conversational systems.
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - Autonomous AI agent that can complete complex tasks.
 - [LangGraph](https://github.com/langchain-ai/langgraph) - Framework for building stateful, multi-actor applications with LLMs, with cycles and control flow.
-
+- [Agents.md](https://github.com/openai/agents.md) - Open source framework for building agentic AI systems.
+  
 #### Development Frameworks & Tools
 
 - [LangChain](https://github.com/langchain-ai/langchain) - Framework for developing applications powered by language models.
@@ -962,6 +982,7 @@ A collection of frameworks, platforms, and end-user applications for building an
 - [ragflow](https://github.com/infiniflow/ragflow) - Open-source RAG (Retrieval-Augmented Generation) workflow platform.
 - [firecrawl](https://github.com/firecrawl/firecrawl) - Web crawling and data extraction service for AI applications.
 - [Fabric](https://github.com/danielmiessler/Fabric) - Framework for augmenting humans using AI.
+- [Dyad](https://github.com/dyad-sh/dyad) - Open-source platform for building AI applications with custom API keys.
 
 #### Code Generation & Assistance
 
@@ -988,8 +1009,9 @@ A collection of frameworks, platforms, and end-user applications for building an
 - [facefusion](https://github.com/facefusion/facefusion) - AI face swapping and enhancement tool.
 - [DocsGPT](https://github.com/arc53/DocsGPT) - Documentation-based question answering system.
 - [Whisper](https://github.com/openai/whisper) - Robust speech recognition model for transcription and translation.
+- [Deep Research](https://github.com/dzhng/deep-research) - AI-powered research assistant for iterative, deep research on any topic.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -1016,7 +1038,7 @@ A collection of resources for mastering cloud-native technologies, containerizat
 - [Awesome Cloud Security](https://github.com/4ndersonLin/awesome-cloud-security) - A curated list of awesome cloud security resources, tools, and best practices.
 - [DevOps Exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, and more.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -1076,7 +1098,7 @@ Tools for containerization, orchestration, infrastructure as code, and cloud-nat
 - [Devtron](https://github.com/devtron-labs/devtron) - Kubernetes dashboard.
 - [Harness](https://github.com/harness/harness) - End-to-end developer platform.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -1097,6 +1119,7 @@ A collection of resources to enhance productivity.
 - [AFFiNE](https://github.com/toeverything/AFFiNE) - All-in-one workspace for notes, docs, and data visualization.
 - [Marimo](https://github.com/marimo-team/marimo) - Reactive Python notebook for reproducible and interactive data science.
 - [ChatGPT Data Science Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) - A collection of useful prompts for data scientists using ChatGPT.
+- [Gamma.app](https://gamma.app/) - AI-powered platform for creating and sharing presentations and documents.
 - [Cookiecutter Data Science](https://github.com/drivendataorg/cookiecutter-data-science) - A standardized project structure for data science projects.
 - [Learn Regex](https://github.com/ziishaned/learn-regex) - Comprehensive guide to learning regular expressions with examples and exercises.
 - [Awesome Regex](https://github.com/aloisdg/awesome-regex) - Curated collection of regex tools, libraries, and learning resources.
@@ -1115,7 +1138,7 @@ A collection of resources to enhance productivity.
 - [Asana](https://asana.com/) - A project management platform for tracking work and projects.
 - [Puter](https://github.com/HeyPuter/puter) - An open-source, browser-based computing environment and cloud OS.
   
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -1160,8 +1183,9 @@ A selection of tools to enhance productivity and functionality in Linux environm
 - [fd](https://github.com/sharkdp/fd) - Simple, fast and user-friendly alternative to 'find'.
 - [dust](https://github.com/bootandy/dust) - More intuitive version of du written in rust.
 - [bottom](https://github.com/ClementTsang/bottom) - Cross-platform graphical process/system monitor.
-
-[⬆ back to top](#contents)
+- [Keychain](https://github.com/danielrobbins/keychain) - Tool for managing and securely storing passwords and secrets.
+  
+[⬆ back to contents](#contents)
 
 ---
 
@@ -1211,7 +1235,7 @@ A collection of extensions to enhance functionality and productivity in Visual S
 - [Python Test Explorer](https://marketplace.visualstudio.com/items/?itemName=LittleFoxTeam.vscode-python-test-adapter) - Run your Python tests in the sidebar of Visual Studio Code.
 - [VSCode Markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) - A VS Code extension to lint and style check markdown files.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -1235,8 +1259,9 @@ A collection of resources to enhance skills and advance your career in data anal
 - [SQL Masterclass](https://github.com/datawithdanny/sql-masterclass?tab=readme-ov-file#course-content) - A course to master SQL for data analysis, complete with real-world projects.
 - [Hugging Face Tasks](https://huggingface.co/tasks) - Hands-on practice with specific NLP and machine learning tasks using real models.
 - [Awesome LeetCode Resources](https://github.com/ashishps1/awesome-leetcode-resources) - Collection of curated resources and strategies for LeetCode practice.
-  
-[⬆ back to top](#contents)
+- [Leetcode Company Wise Problems](https://github.com/liquidslr/leetcode-company-wise-problems) - Company-wise Leetcode problems for interview preparation.
+    
+[⬆ back to contents](#contents)
 
 ---
 
@@ -1259,7 +1284,7 @@ A selection of curated Jupyter notebooks to support learning and exploration in 
 - [Huggingface Notebooks](https://github.com/huggingface/notebooks) - Official Hugging Face notebooks for NLP, vision, audio, and diffusion models.
 - [Deep Learning with Python Notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Official Jupyter notebooks from François Chollet's Deep Learning with Python book.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -1289,7 +1314,7 @@ A collection of resources for accessing datasets and data sources for analysis a
 - [Unsplash Datasets](https://github.com/unsplash/datasets) - A collection of datasets from Unsplash, useful for computer vision and research.
 - [Awesome JSON Datasets](https://github.com/jdorfman/awesome-json-datasets?tab=readme-ov-file#bitcoin) - A curated list of awesome JSON datasets that are publicly available without authentication.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -1304,6 +1329,7 @@ A variety of resources to help you prepare for interviews and enhance your resum
 - [Data Science Interviews](https://github.com/alexeygrigorev/data-science-interviews) - A comprehensive collection of data science interview questions and resources.
 - [The Data Science Interview Book](https://book.thedatascienceinterviewproject.com/) - A comprehensive resource to prepare for data science and machine learning interviews.
 - [Machine Learning Interviews Book](https://github.com/chiphuyen/ml-interviews-book) - A comprehensive guide to preparing for machine learning engineering interviews.
+- [Interview](https://github.com/Olshansk/interview) - Everything you need to prepare for your technical interview.
 - [Interviews](https://github.com/kdn251/interviews) - Personal tech interview study guide covering algorithms and data structures.
 - [Devinterview](https://devinterview.io/) - Ace your next tech interview with confidence.
 - [Interviewqs](https://www.interviewqs.com/) - Ace your next data science interview.
@@ -1318,8 +1344,9 @@ A variety of resources to help you prepare for interviews and enhance your resum
 - [Bartosz Jarocki's CV](https://github.com/BartoszJarocki/cv) - Modern, open-source technical resume template and example.
 - [Awesome-CV](https://github.com/posquit0/Awesome-CV) - Professional CV and resume templates built with LaTeX.
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - Open-source resume builder with multiple templates and customization options.
+- [Best Resume Ever](https://github.com/salomonelli/best-resume-ever) - Collection of modern resume templates and CV examples.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -1345,7 +1372,7 @@ A collection of cheatsheets across various domains to aid in quick reference and
 - [Microsoft SQL Server Notes for Professionals](https://books.goalkicker.com/MicrosoftSQLServerBook/MicrosoftSQLServerNotesForProfessionals.pdf) - A detailed reference for developing and administering MS SQL Server databases.
 - [PowerShell Notes for Professionals](https://books.goalkicker.com/PowerShellBook/PowerShellNotesForProfessionals.pdf) - A guide to task automation and configuration management using PowerShell.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -1360,7 +1387,7 @@ A collection of cheatsheets across various domains to aid in quick reference and
 - [Python Cheatsheet](https://github.com/wilfredinni/python-cheatsheet) - A comprehensive cheatsheet for the Python programming language.
 - [Pysheeet](https://github.com/crazyguitar/pysheeet) - Concise Python cheat sheet for quick reference and interview prep.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -1375,7 +1402,7 @@ A collection of cheatsheets across various domains to aid in quick reference and
 - [PySpark Cheatsheet](https://github.com/kevinschaich/pyspark-cheatsheet) - Common PySpark patterns.
 - [Machine Learning Cheat Sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) - Concise machine learning cheat sheets covering key concepts and equations.
   
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -1384,13 +1411,14 @@ A collection of cheatsheets across various domains to aid in quick reference and
 ### Linux & Git
 
 - [Linux Cheatsheet](https://github.com/gto76/linux-cheatsheet) - Linux commands and shortcuts.
+- [Linux Bash Commands](https://github.com/trinib/Linux-Bash-Commands) - Comprehensive list of Linux/Bash commands for developers and sysadmins.
 - [Bash Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh) - Bash scripting essentials.
 - [Unix Commands Reference](https://github.com/AdiBro/Data-Science-Resources/blob/master/Cheat-Sheets/CL-Git/Unix-Commands-Reference.pdf) - Unix terminal basics.
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Git/GitHub workflows and tips.
 - [Git Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/git.sh) - Git commands and best practices.
 - [Git and Git Flow Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet) - Branching strategies.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -1402,7 +1430,7 @@ A collection of cheatsheets across various domains to aid in quick reference and
 - [10-Page Probability Cheatsheet](https://github.com/wzchen/probability_cheatsheet) - In-depth probability concepts.
 - [Statistics Cheatsheet](https://github.com/khanhnamle1994/cracking-the-data-science-interview/blob/master/Cheatsheets/stats_cheatsheet.pdf) - Key statistical methods.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -1413,7 +1441,7 @@ A collection of cheatsheets across various domains to aid in quick reference and
 - [Quick SQL Cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet) - Handy SQL reference guide.
 - [PostgreSQL Cheatsheet](https://www.postgresonline.com/downloads/special_feature/postgresql83_psql_cheatsheet.pdf) - A handy reference for the most common PostgreSQL psql commands and queries.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -1431,7 +1459,7 @@ A collection of cheatsheets across various domains to aid in quick reference and
 - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker commands and workflows.
 - [Docker Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/docker.sh) - Containerization basics.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -1454,7 +1482,7 @@ A collection of supplementary Python libraries that enhance development workflow
 - [Pydeps](https://github.com/thebjorn/pydeps) - Python module dependency graphs.
 - [PyForest](https://github.com/8080labs/pyforest) - Automated Python imports for data science.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -1477,7 +1505,7 @@ A collection of supplementary Python libraries that enhance development workflow
 - [PyMuPDF](https://github.com/pymupdf/PyMuPDF) - Advanced PDF manipulation library.
 - [Camelot](https://github.com/camelot-dev/camelot) - PDF table extraction library.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -1489,7 +1517,7 @@ A collection of supplementary Python libraries that enhance development workflow
 - [Typer](https://github.com/fastapi/typer) - Library for building CLI applications.
 - [Requests-cache](https://github.com/reclosedev/requests-cache) - Persistent caching for requests library.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -1512,7 +1540,7 @@ A collection of supplementary Python libraries that enhance development workflow
 - [Poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging.
 - [Hydra](https://github.com/facebookresearch/hydra) - Elegant configuration management.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -1551,8 +1579,14 @@ A curated list of other awesome lists on various topics and technologies.
 - [Awesome Claude Prompts](https://github.com/langgptai/awesome-claude-prompts) - Collection of powerful prompts for Anthropic's Claude AI.
 - [Awesome Linux](https://github.com/inputsh/awesome-linux) - Curated list of Linux applications, tools, and resources for users and developers.
 - [Awesome for Beginners](https://github.com/MunGell/awesome-for-beginners) - List of beginner-friendly projects for contributing to open-source software.
-
-[⬆ back to top](#contents)
+- [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Curated list of helpful websites for programmers and engineers.
+- [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - Curated list of creative coding resources and libraries.
+- [Awesome AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance) - Curated list of AI applications, tools, and research in finance.
+- [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) - Collection of resources for learning and practicing algorithms and data structures.
+- [Awesome Serverless](https://github.com/anaibol/awesome-serverless) - Curated resources for serverless architectures and cloud computing.
+- [Awesome R](https://github.com/qinwf/awesome-R) - Curated list of R packages, frameworks, and learning resources.
+      
+[⬆ back to contents](#contents)
 
 ---
 
@@ -1562,6 +1596,7 @@ A curated list of other awesome lists on various topics and technologies.
 
 A wide range of resources and tools designed to facilitate learning, development, and exploration across different domains.
 
+- [OSSU Computer Science](https://github.com/ossu/computer-science) - Path to a free, self-taught education in computer science.
 - [UC Berkeley - Data 8](https://github.com/data-8/textbook) - Course materials for the Data Science Foundations course.
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Production-ready OCR toolkit with multilingual and document AI support.
 - [A collective list of free APIs](https://github.com/public-apis/public-apis) - A comprehensive list of free APIs for various purposes.
@@ -1573,8 +1608,9 @@ A wide range of resources and tools designed to facilitate learning, development
 - [Zasper](https://github.com/zasper-io/zasper) - High Performace IDE for Jupyter Notebooks.
 - [Sketch](https://www.sketch.com/) - Toolkit designed for designers, focusing on their workflow.
 - [Growth.Design](https://growth.design/) - A collection of product case studies and behavioral psychology insights for data-driven decision-making.
-  
-[⬆ back to top](#contents)
+- [Markdown Badges](https://github.com/Ileriayo/markdown-badges) - Collection of badges for GitHub profiles and Markdown files.
+    
+[⬆ back to contents](#contents)
 
 ---
 
@@ -1586,7 +1622,7 @@ A wide range of resources and tools designed to facilitate learning, development
 
 See [CONTRIBUTING.md](https://github.com/PavelGrigoryevDS/awesome-data-analysis/blob/main/CONTRIBUTING.md) for how to add resources.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
 
 ---
 
@@ -1598,4 +1634,4 @@ See [CONTRIBUTING.md](https://github.com/PavelGrigoryevDS/awesome-data-analysis/
 
 This work is dedicated to the public domain under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
 
-[⬆ back to top](#contents)
+[⬆ back to contents](#contents)
