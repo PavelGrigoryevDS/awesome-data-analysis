@@ -10,7 +10,7 @@
 
 **🌱 Want to improve?** [Suggest here](https://github.com/PavelGrigoryevDS/awesome-data-analysis/issues/16) or [Welcome to Discussions](https://github.com/PavelGrigoryevDS/awesome-data-analysis/discussions)
 
-🌟 **Goal: 500 stars!** Join us in making data analysis learning more accessible! ![GitHub stars](https://img.shields.io/github/stars/PavelGrigoryevDS/awesome-data-analysis?style=social)
+🌟 Join us in making data analysis more efficient! ![GitHub stars](https://img.shields.io/github/stars/PavelGrigoryevDS/awesome-data-analysis?style=social)
 
 Maintained with ❤️
 
@@ -953,6 +953,8 @@ A collection of resources focused on AI applications and platforms.
 - [Open LLMs](https://github.com/eugeneyan/open-llms) - Comprehensive list of open-source large language models and their capabilities.
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guides, papers, and resources for prompt engineering with LLMs.
 - [Prompt Engineering](https://github.com/NirDiamant/prompt_engineering) - Collection of prompt engineering techniques and strategies.
+- [500 AI Agents Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - 500+ AI agent projects with code for learning and inspiration.
+- [Generative AI](https://github.com/genieincodebottle/generative-ai) - Roadmap and resources for mastering generative AI technologies.
 
 [⬆ back to contents](#contents)
 
@@ -1327,6 +1329,7 @@ A variety of resources to help you prepare for interviews and enhance your resum
 - [Data Science Interview Questions Answers](https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers) - Curated list of data science interview questions and answers.
 - [Data Science Interview Preperation Resources](https://github.com/youssefHosni/Data-Science-Interview-Preperation-Resources) - Resource to help you prepare for your upcoming data science interviews.
 - [Data Science Interviews](https://github.com/alexeygrigorev/data-science-interviews) - A comprehensive collection of data science interview questions and resources.
+- [Interviews AI](https://github.com/BoltzmannEntropy/interviews.ai) - AI interview preparation guide with questions and solutions.
 - [The Data Science Interview Book](https://book.thedatascienceinterviewproject.com/) - A comprehensive resource to prepare for data science and machine learning interviews.
 - [Machine Learning Interviews Book](https://github.com/chiphuyen/ml-interviews-book) - A comprehensive guide to preparing for machine learning engineering interviews.
 - [Interview](https://github.com/Olshansk/interview) - Everything you need to prepare for your technical interview.
@@ -1585,6 +1588,10 @@ A curated list of other awesome lists on various topics and technologies.
 - [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) - Collection of resources for learning and practicing algorithms and data structures.
 - [Awesome Serverless](https://github.com/anaibol/awesome-serverless) - Curated resources for serverless architectures and cloud computing.
 - [Awesome R](https://github.com/qinwf/awesome-R) - Curated list of R packages, frameworks, and learning resources.
+- [Awesome AI System Prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - Collection of effective system prompts for various AI models.
+- [Awesome Osint](https://github.com/jivoi/awesome-osint) - Curated list of Open Source Intelligence (OSINT) tools and resources.
+- [Awesome Telegram](https://github.com/ebertti/awesome-telegram) - Collection of Telegram bots, channels, and tools for developers.
+- [Free for Dev](https://github.com/ripienaar/free-for-dev) - List of SaaS, PaaS, and IaaS offerings with free developer tiers.
       
 [⬆ back to contents](#contents)
 
@@ -1609,7 +1616,10 @@ A wide range of resources and tools designed to facilitate learning, development
 - [Sketch](https://www.sketch.com/) - Toolkit designed for designers, focusing on their workflow.
 - [Growth.Design](https://growth.design/) - A collection of product case studies and behavioral psychology insights for data-driven decision-making.
 - [Markdown Badges](https://github.com/Ileriayo/markdown-badges) - Collection of badges for GitHub profiles and Markdown files.
-    
+- [CS Video Courses](https://github.com/Developer-Y/cs-video-courses) - Curated list of free university computer science video courses.
+- [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) - Tutorials on how to build your own technology from scratch.
+- [What Happens When](https://github.com/alex/what-happens-when) - Technical explanation of what happens when you type a URL and press Enter.
+
 [⬆ back to contents](#contents)
 
 ---
