@@ -1542,6 +1542,7 @@ A collection of supplementary Python libraries that enhance development workflow
 - [Click](https://github.com/pallets/click) - Beautiful command line interfaces.
 - [Poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging.
 - [Hydra](https://github.com/facebookresearch/hydra) - Elegant configuration management.
+- [Fdnpy](https://github.com/financialdatanet/fdnpy) - Stock Market and Financial Data.
 
 [⬆ back to contents](#contents)
 
