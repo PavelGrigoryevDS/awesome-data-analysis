@@ -152,7 +152,7 @@ A collection of resources for learning and mastering Python programming.
 - [W3Schools Python](https://www.w3schools.com/python/) - A beginner-friendly tutorial and reference for the Python programming language.
 - [Tanu N Prabhu Python](https://github.com/Tanu-N-Prabhu/Python/tree/master) - This repository helps you understand Python from scratch.
 - [Think Python](https://github.com/AllenDowney/ThinkPython) - Jupyter notebooks and other resources for Think Python by Allen Downey.
-  
+
 [⬆ back to contents](#contents)
 
 ---
@@ -172,7 +172,7 @@ Tutorials and best practices for working with Pandas and Numpy.
 - [Effective Pandas](https://github.com/TomAugspurger/effective-pandas) - A series focused on writing effective and idiomatic Pandas code.
 - [From Python to Numpy](https://github.com/rougier/from-python-to-numpy) - An open-access book on vectorization and efficient numerical computing with NumPy.
 - [NumPy 100 Exercises](https://github.com/rougier/numpy-100) - A collection of 100 exercises to master the NumPy library for scientific computing.
-  
+
 [⬆ back to contents](#contents)
 
 ---
@@ -206,7 +206,7 @@ A collection of Python libraries for efficient data manipulation, cleaning, visu
 - [Numba](https://github.com/numba/numba) - A JIT compiler that translates a subset of Python and NumPy code into fast machine code.
 - [Pandas Stubs](https://github.com/pandas-dev/pandas-stubs) - Type stubs for pandas, improves IDE autocompletion.
 - [Petl](https://github.com/petl-developers/petl) - ETL tool for data cleaning and transformation.
-  
+
 [⬆ back to contents](#contents)
 
 ---
@@ -282,11 +282,11 @@ A collection of Python libraries for efficient data manipulation, cleaning, visu
 - [Scattertext](https://github.com/JasonKessler/scattertext) - Beautiful visualizations of language differences among document types.
 - [IGraph](https://github.com/igraph/igraph) - A library for creating and manipulating graphs and networks, with bindings for multiple languages.
 - [Joblib](https://github.com/joblib/joblib) - A lightweight pipelining library for Python, particularly useful for saving and loading large NumPy arrays.
-- [ImageIO](https://github.com/imageio/imageio) - A library that provides an easy interface to read and write a wide range of image data.  
+- [ImageIO](https://github.com/imageio/imageio) - A library that provides an easy interface to read and write a wide range of image data.
 - [Texthero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization.
 - [Geopandas](https://github.com/geopandas/geopandas) - Geographic data operations with pandas.
 - [NetworkX](https://github.com/networkx/networkx) - Network analysis and graph theory.
-  
+
 [⬆ back to contents](#contents)
 
 ---
@@ -352,7 +352,7 @@ A collection of libraries and drivers for seamless database access and interacti
 - [TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed for time-series data, IoT, and industrial monitoring.
 - [TimescaleDB](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.
 - [DuckDB](https://github.com/duckdb/duckdb) - In-memory analytical database for fast SQL queries.
-  
+
 [⬆ back to contents](#contents)
 
 ---
@@ -463,7 +463,7 @@ Frameworks for building custom dashboard solutions.
 - [Reflex](https://github.com/reflex-dev/reflex) - Full-stack Python framework for building web apps.
 - [Taipy](https://github.com/Avaiga/taipy) - Python library for building web applications and interactive dashboards.
 - [Evidence](https://github.com/evidence-dev/evidence) - Business intelligence platform that uses SQL and Markdown for reports.
-  
+
 [⬆ back to contents](#contents)
 
 ---
@@ -489,7 +489,7 @@ A list of leading tools and platforms for data visualization and dashboard creat
 - [Google Data Studio](https://datastudio.google.com) - Free tool for creating interactive dashboards and reports.
 - [Rath](https://github.com/Kanaries/Rath) - Next-generation automated data exploratory analysis and visualization platform.
 - [Kibana](https://github.com/elastic/kibana) - The official visualization and dashboarding tool for the Elastic Stack (Elasticsearch, Logstash, Beats).
-  
+
 [⬆ back to contents](#contents)
 
 ---
@@ -616,7 +616,7 @@ A collection of tools focused on statistics and probability.
 - [Patsy](https://github.com/pydata/patsy) - A Python library for describing statistical models and building design matrices.
 - [Pomegranate](https://github.com/jmschrei/pomegranate) - Fast and flexible probabilistic modeling library for Python with GPU support.
 - [Pgmpy](https://github.com/pgmpy/pgmpy) - Python library for probabilistic and causal inference using graphical models.
-  
+
 [⬆ back to contents](#contents)
 
 ---
@@ -815,7 +815,7 @@ A collection of resources to help you learn and apply machine learning concepts 
 - [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Curated roadmap of seminal deep learning papers for newcomers.
 - [Applied ML](https://github.com/eugeneyan/applied-ml) - Curated resources and tools for applied machine learning in industry.
 - [Annotated deep learning paper implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - Implementations of deep learning papers with annotated code.
-        
+
 [⬆ back to contents](#contents)
 
 ---
@@ -857,7 +857,7 @@ A collection of tools for developing and deploying machine learning models.
 - [Pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch.
 - [Skorch](https://github.com/skorch-dev/skorch) - Scikit-learn compatible neural network library.
 - [Sonnet](https://github.com/google-deepmind/sonnet) - DeepMind's library for building complex neural networks.
-- [JAX](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.  
+- [JAX](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
 - [TensorFlow Models](https://github.com/tensorflow/models) - Official TensorFlow repository with models and examples.
 
 [⬆ back to contents](#contents)
@@ -974,7 +974,14 @@ A collection of frameworks, platforms, and end-user applications for building an
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - Autonomous AI agent that can complete complex tasks.
 - [LangGraph](https://github.com/langchain-ai/langgraph) - Framework for building stateful, multi-actor applications with LLMs, with cycles and control flow.
 - [Agents.md](https://github.com/openai/agents.md) - Open source framework for building agentic AI systems.
-  
+ogrammatically.
+- [OpenManus](https://github.com/FoundationAgents/OpenManus) - Open-source platform for building and deploying AI agents.
+- [youtu-agent](https://github.com/TencentCloudADP/youtu-agent) - Multi-modal intelligent agent framework by Tencent Cloud.
+- [trae-agent](https://github.com/bytedance/trae-agent) - Tool-using reasoning agent with execution-augmented reasoning.
+- [deepagents](https://github.com/langchain-ai/deepagents) - LangChain framework for building sophisticated multi-agent systems.
+- [mem0](https://github.com/mem0ai/mem0) - AI memory system for long-term context and personalized interactions.
+- [web-ui](https://github.com/browser-use/web-ui) - AI-powered browser automation framework for web interaction.
+
 #### Development Frameworks & Tools
 
 - [LangChain](https://github.com/langchain-ai/langchain) - Framework for developing applications powered by language models.
@@ -991,7 +998,7 @@ A collection of frameworks, platforms, and end-user applications for building an
 - [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - AI-powered code generation tool.
 - [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - AI pair programmer that writes entire applications.
 - [tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant.
-  
+
 #### Model Deployment & Platforms
 
 - [Ollama](https://github.com/jmorganca/ollama) - Tool for running large language models locally.
@@ -999,6 +1006,7 @@ A collection of frameworks, platforms, and end-user applications for building an
 - [LocalAI](https://github.com/mudler/LocalAI) - Self-hosted, local-first AI model deployment platform.
 - [dify](https://github.com/langgenius/dify) - Visual LLM application development platform.
 - [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Easy-to-use LLM fine-tuning framework.
+- [unsloth](https://github.com/unslothai/unsloth) - Library for faster and more memory-efficient LLM fine-tuning.
 
 #### End-User Applications
 
@@ -1139,7 +1147,7 @@ A collection of resources to enhance productivity.
 - [Parabola](https://parabola.io/) - An AI-powered workflow builder for organizing data.
 - [Asana](https://asana.com/) - A project management platform for tracking work and projects.
 - [Puter](https://github.com/HeyPuter/puter) - An open-source, browser-based computing environment and cloud OS.
-  
+
 [⬆ back to contents](#contents)
 
 ---
@@ -1186,7 +1194,7 @@ A selection of tools to enhance productivity and functionality in Linux environm
 - [dust](https://github.com/bootandy/dust) - More intuitive version of du written in rust.
 - [bottom](https://github.com/ClementTsang/bottom) - Cross-platform graphical process/system monitor.
 - [Keychain](https://github.com/danielrobbins/keychain) - Tool for managing and securely storing passwords and secrets.
-  
+
 [⬆ back to contents](#contents)
 
 ---
@@ -1262,7 +1270,7 @@ A collection of resources to enhance skills and advance your career in data anal
 - [Hugging Face Tasks](https://huggingface.co/tasks) - Hands-on practice with specific NLP and machine learning tasks using real models.
 - [Awesome LeetCode Resources](https://github.com/ashishps1/awesome-leetcode-resources) - Collection of curated resources and strategies for LeetCode practice.
 - [Leetcode Company Wise Problems](https://github.com/liquidslr/leetcode-company-wise-problems) - Company-wise Leetcode problems for interview preparation.
-    
+
 [⬆ back to contents](#contents)
 
 ---
@@ -1285,6 +1293,7 @@ A selection of curated Jupyter notebooks to support learning and exploration in 
 - [Unsloth Notebooks](https://github.com/unslothai/notebooks) - Optimized notebooks for faster AI model training and fine-tuning.
 - [Huggingface Notebooks](https://github.com/huggingface/notebooks) - Official Hugging Face notebooks for NLP, vision, audio, and diffusion models.
 - [Deep Learning with Python Notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Official Jupyter notebooks from François Chollet's Deep Learning with Python book.
+- [PythonNumericalDemos](https://github.com/GeostatsGuy/PythonNumericalDemos) - Python notebooks for geostatistics and numerical demonstrations.
 
 [⬆ back to contents](#contents)
 
@@ -1332,6 +1341,7 @@ A variety of resources to help you prepare for interviews and enhance your resum
 - [Interviews AI](https://github.com/BoltzmannEntropy/interviews.ai) - AI interview preparation guide with questions and solutions.
 - [The Data Science Interview Book](https://book.thedatascienceinterviewproject.com/) - A comprehensive resource to prepare for data science and machine learning interviews.
 - [Machine Learning Interviews Book](https://github.com/chiphuyen/ml-interviews-book) - A comprehensive guide to preparing for machine learning engineering interviews.
+- [MLQuestions](https://github.com/andrewekhalel/MLQuestions) - Collection of machine learning interview questions and answers.
 - [Interview](https://github.com/Olshansk/interview) - Everything you need to prepare for your technical interview.
 - [Interviews](https://github.com/kdn251/interviews) - Personal tech interview study guide covering algorithms and data structures.
 - [Devinterview](https://devinterview.io/) - Ace your next tech interview with confidence.
@@ -1404,7 +1414,7 @@ A collection of cheatsheets across various domains to aid in quick reference and
 - [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) - Data manipulation with Pandas.
 - [PySpark Cheatsheet](https://github.com/kevinschaich/pyspark-cheatsheet) - Common PySpark patterns.
 - [Machine Learning Cheat Sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) - Concise machine learning cheat sheets covering key concepts and equations.
-  
+
 [⬆ back to contents](#contents)
 
 ---
@@ -1542,6 +1552,7 @@ A collection of supplementary Python libraries that enhance development workflow
 - [Click](https://github.com/pallets/click) - Beautiful command line interfaces.
 - [Poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging.
 - [Hydra](https://github.com/facebookresearch/hydra) - Elegant configuration management.
+- [papermill](https://github.com/nteract/papermill) - Tool for parameterizing and executing Jupyter notebooks programmatically.
 
 [⬆ back to contents](#contents)
 
@@ -1592,7 +1603,8 @@ A curated list of other awesome lists on various topics and technologies.
 - [Awesome Osint](https://github.com/jivoi/awesome-osint) - Curated list of Open Source Intelligence (OSINT) tools and resources.
 - [Awesome Telegram](https://github.com/ebertti/awesome-telegram) - Collection of Telegram bots, channels, and tools for developers.
 - [Free for Dev](https://github.com/ripienaar/free-for-dev) - List of SaaS, PaaS, and IaaS offerings with free developer tiers.
-      
+- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - Icon library and toolkit for scalable vector graphics on the web.
+
 [⬆ back to contents](#contents)
 
 ---
