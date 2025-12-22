@@ -588,6 +588,7 @@ A selection of resources focused on statistics and probability, including tutori
 - [Think Bayes 2](https://github.com/AllenDowney/ThinkBayes2) - Book and code for Bayesian statistical methods.
 - [Causal Inference: The Mixtape](https://mixtape.scunning.com/) - Practical guide to causal inference methods.
 - [The Effect](https://theeffectbook.net/) - Modern introduction to causality and research design.
+- [The Statistics Handbook](https://github.com/carloocchiena/the_statistics_handbook) - Open-source statistics hands-on handbook.
 
 [⬆ back to contents](#contents)
 
