@@ -982,6 +982,7 @@ ogrammatically.
 - [deepagents](https://github.com/langchain-ai/deepagents) - LangChain framework for building sophisticated multi-agent systems.
 - [mem0](https://github.com/mem0ai/mem0) - AI memory system for long-term context and personalized interactions.
 - [web-ui](https://github.com/browser-use/web-ui) - AI-powered browser automation framework for web interaction.
+- [Agent-S](https://github.com/simular-ai/Agent-S) - Open agentic framework that autonomously interacts with computer GUIs like a human.
 
 #### Development Frameworks & Tools
 
@@ -993,6 +994,8 @@ ogrammatically.
 - [firecrawl](https://github.com/firecrawl/firecrawl) - Web crawling and data extraction service for AI applications.
 - [Fabric](https://github.com/danielmiessler/Fabric) - Framework for augmenting humans using AI.
 - [Dyad](https://github.com/dyad-sh/dyad) - Open-source platform for building AI applications with custom API keys.
+- [Langflow](https://github.com/langflow-ai/langflow) - Powerful visual platform for building and deploying AI-powered agents and workflows.
+- [NeMo](https://github.com/NVIDIA-NeMo/NeMo) - Scalable generative AI framework from NVIDIA for LLMs, Multimodal, and Speech AI.
 
 #### Code Generation & Assistance
 
@@ -1019,8 +1022,12 @@ ogrammatically.
 - [upscayl](https://github.com/upscayl/upscayl) - AI-powered image upscaling tool.
 - [facefusion](https://github.com/facefusion/facefusion) - AI face swapping and enhancement tool.
 - [DocsGPT](https://github.com/arc53/DocsGPT) - Documentation-based question answering system.
-- [Whisper](https://github.com/openai/whisper) - Robust speech recognition model for transcription and translation.
 - [Deep Research](https://github.com/dzhng/deep-research) - AI-powered research assistant for iterative, deep research on any topic.
+
+#### Additional Models & Tools
+
+- [Bagel](https://github.com/ByteDance-Seed/Bagel) - Open-source unified multimodal model for understanding and generating images.
+- [Whisper](https://github.com/openai/whisper) - Robust speech recognition model for transcription and translation.
 
 [⬆ back to contents](#contents)
 
@@ -1495,6 +1502,7 @@ A collection of supplementary Python libraries that enhance development workflow
 - [PandasVet](https://github.com/deppen8/pandas-vet) - Code style validator for Pandas.
 - [Pydeps](https://github.com/thebjorn/pydeps) - Python module dependency graphs.
 - [PyForest](https://github.com/8080labs/pyforest) - Automated Python imports for data science.
+- [Complexipy](https://github.com/rohaquinlop/complexipy) - Blazingly fast cognitive complexity analysis for Python, written in Rust.
 
 [⬆ back to contents](#contents)
 
