@@ -731,6 +731,7 @@ A collection of tools for building, deploying, and managing data pipelines and i
 - [Prefect](https://github.com/PrefectHQ/prefect) - Workflow orchestration for building resilient data pipelines.
 - [Apache Arrow](https://github.com/apache/arrow) - Universal columnar format and multi-language toolbox for fast data interchange.
 - [Kestra](https://github.com/kestra-io/kestra) - An open-source, event-driven orchestrator that simplifies data workflow management.
+- [Conductor](https://github.com/conductor-oss/conductor) - Orchestration engine for running complex, multi-step workflows and business processes.
 
 [⬆ back to contents](#contents)
 
@@ -983,6 +984,10 @@ ogrammatically.
 - [mem0](https://github.com/mem0ai/mem0) - AI memory system for long-term context and personalized interactions.
 - [web-ui](https://github.com/browser-use/web-ui) - AI-powered browser automation framework for web interaction.
 - [Agent-S](https://github.com/simular-ai/Agent-S) - Open agentic framework that autonomously interacts with computer GUIs like a human.
+- [Mastra](https://github.com/mastra-ai/mastra) - Open-source AI agent platform for building and scaling production-grade autonomous agents.
+- [Langflow](https://github.com/langflow-ai/langflow) - Powerful visual platform for building and deploying AI-powered agents and workflows.
+- [agenticSeek](https://github.com/Fosowl/agenticSeek) - Framework for building and deploying AI agents with advanced reasoning and tool use.
+- [Flowise](https://github.com/FlowiseAI/Flowise) - Open-source UI visual tool for building custom LLM orchestration flows and AI agents.
 
 #### Development Frameworks & Tools
 
@@ -1526,6 +1531,7 @@ A collection of supplementary Python libraries that enhance development workflow
 - [WeasyPrint](https://github.com/Kozea/WeasyPrint) - Convert HTML to PDF.
 - [PyMuPDF](https://github.com/pymupdf/PyMuPDF) - Advanced PDF manipulation library.
 - [Camelot](https://github.com/camelot-dev/camelot) - PDF table extraction library.
+- [Marker](https://github.com/datalab-to/marker) - Fast, high-accuracy PDF and document conversion tool with layout preservation.
 
 [⬆ back to contents](#contents)
 
