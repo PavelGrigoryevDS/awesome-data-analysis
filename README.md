@@ -278,7 +278,6 @@ A collection of Python libraries for efficient data manipulation, cleaning, visu
 - [Mimesis](https://github.com/lk-geimfari/mimesis) - Generates realistic test data.
 - [Geopy](https://github.com/geopy/geopy) - Geocoding addresses and calculating distances.
 - [PySAL](https://github.com/pysal/pysal) - Spatial analysis functions.
-- [Factor Analyzer](https://github.com/EducationalTestingService/factor_analyzer) - A Python package for factor analysis, including exploratory and confirmatory methods.
 - [Scattertext](https://github.com/JasonKessler/scattertext) - Beautiful visualizations of language differences among document types.
 - [IGraph](https://github.com/igraph/igraph) - A library for creating and manipulating graphs and networks, with bindings for multiple languages.
 - [Joblib](https://github.com/joblib/joblib) - A lightweight pipelining library for Python, particularly useful for saving and loading large NumPy arrays.
@@ -286,6 +285,7 @@ A collection of Python libraries for efficient data manipulation, cleaning, visu
 - [Texthero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization.
 - [Geopandas](https://github.com/geopandas/geopandas) - Geographic data operations with pandas.
 - [NetworkX](https://github.com/networkx/networkx) - Network analysis and graph theory.
+- [Chardet](https://github.com/chardet/chardet) - Python library to detect the character encoding of text and files.
 
 [⬆ back to contents](#contents)
 
@@ -414,6 +414,8 @@ Libraries for static, interactive, and 3D visualizations.
 - [VisPy](https://github.com/vispy/vispy) - A high-performance interactive 2D/3D data visualization library leveraging the power of OpenGL.
 - [Glumpy](https://github.com/glumpy/glumpy) - A Python library for scientific visualization that is fast, scalable and beautiful, based on OpenGL.
 - [Pandas-bokeh](https://github.com/PatrikHlobil/Pandas-Bokeh) - Bokeh plotting backend for Pandas.
+- [QGIS](https://github.com/qgis/QGIS) - Free, open source, cross-platform geographic information system (GIS).
+- [Flourish](https://flourish.studio/) - Platform for creating interactive data visualizations and stories without coding.
 
 [⬆ back to contents](#contents)
 
@@ -483,7 +485,7 @@ A list of leading tools and platforms for data visualization and dashboard creat
 - [Metabase](https://github.com/metabase/metabase) - The simplest way to get analytics and business intelligence for everyone in your company.
 - [Redash](https://github.com/getredash/redash) - Tool for visualizing and sharing data insights.
 - [Grafana](https://grafana.com) - Dashboarding and monitoring tool.
-- [Datawrapper](https://www.datawrapper.de) - User-friendly chart and map creation tool.
+- [Datawrapper](https://github.com/datawrapper/datawrapper) - User-friendly chart and map creation tool.
 - [ChartBlocks](https://www.chartblocks.com) - Online chart creation platform.
 - [Infogram](https://infogram.com) - Tool for creating infographics and visual content.
 - [Google Data Studio](https://datastudio.google.com) - Free tool for creating interactive dashboards and reports.
@@ -988,6 +990,9 @@ ogrammatically.
 - [Langflow](https://github.com/langflow-ai/langflow) - Powerful visual platform for building and deploying AI-powered agents and workflows.
 - [agenticSeek](https://github.com/Fosowl/agenticSeek) - Framework for building and deploying AI agents with advanced reasoning and tool use.
 - [Flowise](https://github.com/FlowiseAI/Flowise) - Open-source UI visual tool for building custom LLM orchestration flows and AI agents.
+- [MetaGPT](https://github.com/FoundationAgents/MetaGPT) - Multi-agent framework that simulates roles in a software company to build projects.
+- [Local Deep Research](https://github.com/LearningCircuit/local-deep-research) - Local AI research assistant that searches web, papers, and documents.
+- [Gptme](https://github.com/gptme/gptme) - AI agent CLI that writes code, uses terminal, browses web, and runs locally.
 
 #### Development Frameworks & Tools
 
@@ -1028,6 +1033,7 @@ ogrammatically.
 - [facefusion](https://github.com/facefusion/facefusion) - AI face swapping and enhancement tool.
 - [DocsGPT](https://github.com/arc53/DocsGPT) - Documentation-based question answering system.
 - [Deep Research](https://github.com/dzhng/deep-research) - AI-powered research assistant for iterative, deep research on any topic.
+- [Screenpipe](https://github.com/mediar-ai/screenpipe) - Local AI that records, searches, and automates tasks based on your screen and audio.
 
 #### Additional Models & Tools
 
@@ -1160,6 +1166,7 @@ A collection of resources to enhance productivity.
 - [Parabola](https://parabola.io/) - An AI-powered workflow builder for organizing data.
 - [Asana](https://asana.com/) - A project management platform for tracking work and projects.
 - [Puter](https://github.com/HeyPuter/puter) - An open-source, browser-based computing environment and cloud OS.
+- [Milkdown](https://github.com/Milkdown/milkdown) - Plugin-driven, WYSIWYG markdown editor framework inspired by Typora.
 
 [⬆ back to contents](#contents)
 
@@ -1544,6 +1551,7 @@ A collection of supplementary Python libraries that enhance development workflow
 - [Flask](https://github.com/pallets/flask) - Lightweight Python web framework for building applications and APIs.
 - [Typer](https://github.com/fastapi/typer) - Library for building CLI applications.
 - [Requests-cache](https://github.com/reclosedev/requests-cache) - Persistent caching for requests library.
+- [Aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python.
 
 [⬆ back to contents](#contents)
 
@@ -1568,6 +1576,7 @@ A collection of supplementary Python libraries that enhance development workflow
 - [Poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging.
 - [Hydra](https://github.com/facebookresearch/hydra) - Elegant configuration management.
 - [papermill](https://github.com/nteract/papermill) - Tool for parameterizing and executing Jupyter notebooks programmatically.
+- [Python Telegram Bot](https://github.com/python-telegram-bot/python-telegram-bot) - Pure Python framework for the Telegram Bot API with async support.
 
 [⬆ back to contents](#contents)
 
