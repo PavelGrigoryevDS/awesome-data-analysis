@@ -541,6 +541,7 @@ A list of libraries and tools for web scraping.
 - [Helium](https://github.com/mherrmann/helium) - High-level Selenium wrapper for easier web automation.
 - [Scrapling](https://github.com/D4Vinci/Scrapling) - A framework for building web scrapers and crawlers.
 - [Crawl4AI](https://github.com/unclecode/crawl4ai) - Advanced web crawling framework designed for AI and data extraction tasks.
+- [Everyrow](https://github.com/futuresearch/everyrow-sdk) - AI-powered data operations SDK. Semantic deduplication, fuzzy merging, and intelligent ranking for data analysis workflows.
 
 [⬆ back to contents](#contents)
 
