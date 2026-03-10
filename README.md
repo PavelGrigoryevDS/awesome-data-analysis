@@ -107,7 +107,6 @@ Curated collections of high-quality GitHub repos for inspiration and learning.
 - [Data Science Best Resources](https://github.com/tirthajyoti/Data-science-best-resources) - Carefully curated links for data science resources in one place.
 - [Data Science Articles from CodeCut](https://github.com/CodeCutTech/Data-science) - A collection of articles, videos, and code related to data science.
 - [Data Science Using Python](https://github.com/WillKoehrsen/Data-Analysis) - Resources for data analysis using Python.
-- [WFGY Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) - MIT-licensed checklist for debugging RAG / LLM-based data pipelines and improving reliability in production.
 
 [⬆ back to contents](#contents)
 
@@ -188,6 +187,8 @@ A collection of Python libraries for efficient data manipulation, cleaning, visu
 
 #### Data Processing & Transformation
 
+- [Pandas](https://github.com/pandas-dev/pandas) - Powerful Python library for data analysis and manipulation with flexible data structures.
+- [NumPy](https://github.com/numpy/numpy) - Fundamental package for scientific computing in Python with multidimensional array support.
 - [Pandas DQ](https://github.com/AutoViML/pandas_dq) - Data type correction and automatic DataFrame cleaning.
 - [Vaex](https://github.com/vaexio/vaex) - High-performance Python library for lazy Out-of-Core DataFrames.
 - [Polars](https://github.com/pola-rs/polars) - Multithreaded, vectorized query engine for DataFrames.
@@ -542,7 +543,6 @@ A list of libraries and tools for web scraping.
 - [Helium](https://github.com/mherrmann/helium) - High-level Selenium wrapper for easier web automation.
 - [Scrapling](https://github.com/D4Vinci/Scrapling) - A framework for building web scrapers and crawlers.
 - [Crawl4AI](https://github.com/unclecode/crawl4ai) - Advanced web crawling framework designed for AI and data extraction tasks.
-- [Everyrow](https://github.com/futuresearch/everyrow-sdk) - AI-powered data operations SDK. Semantic deduplication, fuzzy merging, and intelligent ranking for data analysis workflows.
 
 [⬆ back to contents](#contents)
 
@@ -701,6 +701,7 @@ A collection of resources to help you build and manage robust data pipelines and
 - [Data Engineering Cookbook](https://github.com/andkret/Cookbook) - Techniques and strategies for building reliable data platforms.
 - [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) - A curated list of pipeline toolkits for data processing and workflow management.
 - [Awesome DB Tools](https://github.com/mgramin/awesome-db-tools) - A curated list of awesome database tools.
+- [Awesome Kafka](https://github.com/infoslack/awesome-kafka) - Curated resources for learning and working with Apache Kafka: books, trainings, tools.
 
 [⬆ back to contents](#contents)
 
@@ -821,6 +822,8 @@ A collection of resources to help you learn and apply machine learning concepts 
 - [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Curated roadmap of seminal deep learning papers for newcomers.
 - [Applied ML](https://github.com/eugeneyan/applied-ml) - Curated resources and tools for applied machine learning in industry.
 - [Annotated deep learning paper implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - Implementations of deep learning papers with annotated code.
+- [Ml From Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Core machine learning algorithms implemented in Python from scratch.
+- [Awesome Ai Ml Resources](https://github.com/armankhondker/awesome-ai-ml-resources) - Carefully curated list of AI/ML books, courses, and practical tools.
 
 [⬆ back to contents](#contents)
 
@@ -888,6 +891,7 @@ Materials and curated lists for machine learning operations.
 - [ML Engineering Guide](https://github.com/stas00/ml-engineering) - A practical guide to machine learning engineering and MLOps best practices.
 - [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of tools for deploying, monitoring, and maintaining ML systems in production.
 - [Llama Cookbook](https://github.com/meta-llama/llama-cookbook) - Official recipes and examples for working with Llama models.
+- [Awesome Kubeflow](https://github.com/terrytangyuan/awesome-kubeflow) - Curated resources, tools, and projects for the Kubeflow machine learning platform.
 
 [⬆ back to contents](#contents)
 
@@ -940,6 +944,7 @@ A collection of resources focused on AI applications and platforms.
 - [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services.
 - [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners) - Microsoft's course on designing and building AI agents.
 - [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) - Course on generative AI for beginners from Microsoft.
+- [Ai Dev Tools Zoomcamp](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp) - Free hands-on course on modern tools for building and deploying AI applications.
 - [LLM Course](https://github.com/mlabonne/llm-course) - Practical course to master large language models from start to finish.
 - [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents) - A curated list of AI autonomous agents, environments, and frameworks.
 - [AI Collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications.
@@ -961,6 +966,8 @@ A collection of resources focused on AI applications and platforms.
 - [Prompt Engineering](https://github.com/NirDiamant/prompt_engineering) - Collection of prompt engineering techniques and strategies.
 - [500 AI Agents Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - 500+ AI agent projects with code for learning and inspiration.
 - [Generative AI](https://github.com/genieincodebottle/generative-ai) - Roadmap and resources for mastering generative AI technologies.
+- [Awesome N8N](https://github.com/restyler/awesome-n8n) - Collection of templates, integrations, and resources for the n8n automation platform.
+- [Free Llm Api Resources](https://github.com/cheahjs/free-llm-api-resources) - Up-to-date list of free APIs for accessing large language models (LLMs).
 
 [⬆ back to contents](#contents)
 
@@ -995,6 +1002,12 @@ ogrammatically.
 - [MetaGPT](https://github.com/FoundationAgents/MetaGPT) - Multi-agent framework that simulates roles in a software company to build projects.
 - [Local Deep Research](https://github.com/LearningCircuit/local-deep-research) - Local AI research assistant that searches web, papers, and documents.
 - [Gptme](https://github.com/gptme/gptme) - AI agent CLI that writes code, uses terminal, browses web, and runs locally.
+- [Rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker that learns from your emails/meetings to automate drafting, prep, and tasks.
+- [Everyrow](https://github.com/futuresearch/everyrow-sdk) - AI-powered data operations SDK. Semantic deduplication, fuzzy merging, and intelligent ranking for data analysis workflows.
+- [Personal Ai Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Framework for building a personal AI assistant with memory, skills, and learning ability.
+- [N8N Workflows](https://github.com/Zie619/n8n-workflows) - Collection of ready-to-use workflow templates for the n8n automation platform.
+- [Skyvern](https://github.com/Skyvern-AI/skyvern) - AI browser automation using LLMs & computer vision. Playwright-compatible SDK + no-code workflows.
+- [OpenWork](https://github.com/different-ai/openwork) - Open-source desktop alternative to Claude Cowork for running agents, skills, and MCP locally with team collaboration features.
 
 #### Development Frameworks & Tools
 
@@ -1008,6 +1021,7 @@ ogrammatically.
 - [Dyad](https://github.com/dyad-sh/dyad) - Open-source platform for building AI applications with custom API keys.
 - [Langflow](https://github.com/langflow-ai/langflow) - Powerful visual platform for building and deploying AI-powered agents and workflows.
 - [NeMo](https://github.com/NVIDIA-NeMo/NeMo) - Scalable generative AI framework from NVIDIA for LLMs, Multimodal, and Speech AI.
+- [Deepcode](https://github.com/HKUDS/DeepCode) - AI-powered agent framework for automatic code generation from research papers and text.
 
 #### Code Generation & Assistance
 
@@ -1023,6 +1037,14 @@ ogrammatically.
 - [dify](https://github.com/langgenius/dify) - Visual LLM application development platform.
 - [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Easy-to-use LLM fine-tuning framework.
 - [unsloth](https://github.com/unslothai/unsloth) - Library for faster and more memory-efficient LLM fine-tuning.
+- [LocalGPT](https://github.com/PromtEngineer/localGPT) - Fully private, on-premise document intelligence platform for chatting with your documents using local LLMs.
+
+#### AI Reliability & Debugging
+
+- [DeepEval](https://github.com/confident-ai/deepeval) - Pytest-style unit testing framework for LLMs. Metrics for RAG, agents, hallucination, summarization, and custom criteria.
+- [RAGAS](https://github.com/vibrantlabsai/ragas) - Evaluation toolkit for LLM apps. Metrics, test generation, and insights for optimizing RAG pipelines and agents.
+- [Phoenix](https://github.com/Arize-ai/phoenix) - AI observability platform. Tracing, datasets, experiments, and playground for troubleshooting and evaluating LLM apps.
+- [WFGY](https://github.com/onestardao/WFGY) - Open-source debugging infrastructure for RAG and AI agents. Includes 16-problem RAG failure map and TXT stress-test engine.
 
 #### End-User Applications
 
@@ -1036,11 +1058,16 @@ ogrammatically.
 - [DocsGPT](https://github.com/arc53/DocsGPT) - Documentation-based question answering system.
 - [Deep Research](https://github.com/dzhng/deep-research) - AI-powered research assistant for iterative, deep research on any topic.
 - [Screenpipe](https://github.com/mediar-ai/screenpipe) - Local AI that records, searches, and automates tasks based on your screen and audio.
+- [Jaaz](https://github.com/11cafe/jaaz) - Open-source multimodal creative assistant and privacy-focused alternative to Canva/Manus for local image/video generation.
+- [DeepTutor](https://github.com/HKUDS/DeepTutor) - AI-powered personalized learning assistant with document Q&A, exercise generation, and deep research capabilities.
 
-#### Additional Models & Tools
+#### Additional Tools
 
 - [Bagel](https://github.com/ByteDance-Seed/Bagel) - Open-source unified multimodal model for understanding and generating images.
 - [Whisper](https://github.com/openai/whisper) - Robust speech recognition model for transcription and translation.
+- [ChatTTS](https://github.com/2noise/ChatTTS) - Generative TTS model optimized for natural, expressive daily dialogue with fine-grained prosody control.
+- [NeuTTS](https://github.com/neuphonic/neutts) - On-device TTS model with instant voice cloning from audio samples..
+- [Everything Claude Code](https://github.com/affaan-m/everything-claude-code) - Collection of resources, guides, and tools for effective Claude Code AI assistant use.
 
 [⬆ back to contents](#contents)
 
@@ -1068,6 +1095,7 @@ A collection of resources for mastering cloud-native technologies, containerizat
 - [Awesome Kubernetes Resources](https://github.com/tomhuang12/awesome-k8s-resources) - A curated list of awesome Kubernetes tutorials, tools, and resources.
 - [Awesome Cloud Security](https://github.com/4ndersonLin/awesome-cloud-security) - A curated list of awesome cloud security resources, tools, and best practices.
 - [DevOps Exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, and more.
+- [Awesome Cloudsec Labs](https://github.com/iknowjason/Awesome-CloudSec-Labs) - Curated hands-on labs and exercises for learning cloud security platforms.
 
 [⬆ back to contents](#contents)
 
@@ -1129,6 +1157,10 @@ Tools for containerization, orchestration, infrastructure as code, and cloud-nat
 - [Devtron](https://github.com/devtron-labs/devtron) - Kubernetes dashboard.
 - [Harness](https://github.com/harness/harness) - End-to-end developer platform.
 
+#### Additional Tools
+
+- [Vagrant](https://github.com/hashicorp/vagrant) - Tool for building and managing portable virtual development environments as code.
+
 [⬆ back to contents](#contents)
 
 ---
@@ -1169,6 +1201,7 @@ A collection of resources to enhance productivity.
 - [Asana](https://asana.com/) - A project management platform for tracking work and projects.
 - [Puter](https://github.com/HeyPuter/puter) - An open-source, browser-based computing environment and cloud OS.
 - [Milkdown](https://github.com/Milkdown/milkdown) - Plugin-driven, WYSIWYG markdown editor framework inspired by Typora.
+- [PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - AI tool for bilingual scientific PDF translation preserving formulas, charts, and layout.
 
 [⬆ back to contents](#contents)
 
@@ -1591,6 +1624,7 @@ A collection of supplementary Python libraries that enhance development workflow
 A curated list of other awesome lists on various topics and technologies.
 
 - [Awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
+- [Freecodecamp](https://github.com/freeCodeCamp/freeCodeCamp) - Open source platform with thousands of interactive lessons for learning web development.
 - [Awesome Big Data](https://github.com/oxnr/awesome-bigdata) - A curated list of awesome big data frameworks, resources, and tools.
 - [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial) - A curated list of awesome geospatial libraries, tools, and resources.
 - [Awesome Chatgpt Prompts](https://github.com/f/awesome-chatgpt-prompts) - A repository for ChatGPT prompt curation.
@@ -1630,6 +1664,15 @@ A curated list of other awesome lists on various topics and technologies.
 - [Awesome Telegram](https://github.com/ebertti/awesome-telegram) - Collection of Telegram bots, channels, and tools for developers.
 - [Free for Dev](https://github.com/ripienaar/free-for-dev) - List of SaaS, PaaS, and IaaS offerings with free developer tiers.
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - Icon library and toolkit for scalable vector graphics on the web.
+- [Awesome Docs](https://github.com/testthedocs/awesome-docs) - Curated list of essential tools and resources for creating great documentation.
+- [Awesome Testing](https://github.com/TheJambo/awesome-testing) - Curated list of software testing resources: tools, frameworks, books, and best practices.
+- [Awesome Graphql](https://github.com/chentsulin/awesome-graphql) - Comprehensive collection of resources, libraries, and tools for working with GraphQL.
+- [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - Resources, tips, and tools for finding and thriving in remote work.
+- [Awesome Asyncio](https://github.com/timofurrer/awesome-asyncio) - Curated list of frameworks, libraries, and utilities for asyncio-based Python programming.
+- [Awesome Zsh Plugins](https://github.com/unixorn/awesome-zsh-plugins) - Massive collection of plugins, themes, and resources for customizing Zsh.
+- [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) - Structured guide to design patterns for building scalable and reliable systems.
+- [Books](https://github.com/linsa-io/books) - Collection of links to free technical books on programming, databases, DevOps, and analytics.
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) - Largest multilingual collection of free programming books and learning materials.
 
 [⬆ back to contents](#contents)
 
@@ -1657,6 +1700,11 @@ A wide range of resources and tools designed to facilitate learning, development
 - [CS Video Courses](https://github.com/Developer-Y/cs-video-courses) - Curated list of free university computer science video courses.
 - [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) - Tutorials on how to build your own technology from scratch.
 - [What Happens When](https://github.com/alex/what-happens-when) - Technical explanation of what happens when you type a URL and press Enter.
+- [Devops Exercises](https://github.com/bregman-arie/devops-exercises) - Extensive collection of exercises and questions for DevOps and Linux interview prep.
+- [Free Certifications](https://github.com/cloudcommunity/Free-Certifications) - Regularly updated list of free certification courses from top cloud and tech companies.
+- [A To Z Resources For Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Comprehensive list of free resources for students learning programming and tech.
+- [Summer Internships](https://github.com/SimplifyJobs/Summer2026-Internships) - Up-to-date list of summer internships in tech with deadline tracking.
+- [Football Analytics](https://github.com/eddwebster/football_analytics) - Open learning course and toolkit for football data analysis with Python and R.
 
 [⬆ back to contents](#contents)
 
