@@ -107,6 +107,7 @@ Curated collections of high-quality GitHub repos for inspiration and learning.
 - [Data Science Best Resources](https://github.com/tirthajyoti/Data-science-best-resources) - Carefully curated links for data science resources in one place.
 - [Data Science Articles from CodeCut](https://github.com/CodeCutTech/Data-science) - A collection of articles, videos, and code related to data science.
 - [Data Science Using Python](https://github.com/WillKoehrsen/Data-Analysis) - Resources for data analysis using Python.
+- [WFGY Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) - MIT-licensed checklist for debugging RAG / LLM-based data pipelines and improving reliability in production.
 
 [⬆ back to contents](#contents)
 
