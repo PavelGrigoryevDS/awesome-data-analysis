@@ -1009,6 +1009,8 @@ ogrammatically.
 - [N8N Workflows](https://github.com/Zie619/n8n-workflows) - Collection of ready-to-use workflow templates for the n8n automation platform.
 - [Skyvern](https://github.com/Skyvern-AI/skyvern) - AI browser automation using LLMs & computer vision. Playwright-compatible SDK + no-code workflows.
 - [OpenWork](https://github.com/different-ai/openwork) - Open-source desktop alternative to Claude Cowork for running agents, skills, and MCP locally with team collaboration features.
+- [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze) - Agentic LLM for autonomous data science, which can autonomously complete a wide range of data-centric tasks without human intervention.
+
 
 #### Development Frameworks & Tools
 
