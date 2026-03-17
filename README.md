@@ -441,6 +441,7 @@ Ttutorials for building and enhancing dashboards and visualizations using variou
 - [Dash Enterprise Samples](https://github.com/plotly/dash-sample-apps) - Production-ready Dash apps.
 - [geeksforgeeks - Tableau Tutorial](https://www.geeksforgeeks.org/tableau-tutorial/) - Comprehensive tutorial on Tableau.
 - [geeksforgeeks - Power BI Tutorial](https://www.geeksforgeeks.org/power-bi-tutorial/) - Detailed tutorial on Power BI.
+- [Tableau Public Gallery](https://public.tableau.com/app/discover) - A curated collection of real-world interactive dashboards to inspire and learn from.
 
 [⬆ back to contents](#contents)
 
