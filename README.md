@@ -348,6 +348,7 @@ A collection of libraries and drivers for seamless database access and interacti
 - [PyMySQL](https://github.com/PyMySQL/PyMySQL) - A pure-Python MySQL client library for interacting with MySQL databases from Python applications.
 - [Vanna.AI](https://github.com/vanna-ai/vanna) - An AI-powered tool for generating SQL queries from natural language questions.
 - [SQLChat](https://github.com/sqlchat/sqlchat) - A chat-based SQL client that allows you to query databases using natural language conversations.
+- [AI for Database](https://aifordatabase.com) - An agentic AI platform to interact with any database in plain English — no SQL needed. Supports natural language queries, self-refreshing dashboards, and automated workflows triggered by database changes.
 - [Records](https://github.com/kennethreitz-archive/records) - SQL queries to databases via Python syntax.
 - [Dataset](https://github.com/pudo/dataset) - JSON-like interface for working with SQL databases.
 - [SQLGlot](https://github.com/tobymao/sqlglot) - A no-dependency SQL parser, transpiler, and optimizer for Python.
