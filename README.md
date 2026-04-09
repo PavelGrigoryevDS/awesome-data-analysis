@@ -234,6 +234,7 @@ A collection of Python libraries for efficient data manipulation, cleaning, visu
 - [PyGWalker](https://github.com/Kanaries/pygwalker) - Interactive UIs for visual analysis of DataFrames.
 - [QGrid](https://github.com/quantopian/qgrid) - Interactive grid for DataFrames in Jupyter.
 - [Pivottablejs](https://github.com/nicolaskruchten/jupyter_pivottablejs) - Interactive PivotTable.js tables in Jupyter.
+- [The Data Board](https://thedataboard.ai/) - Automatic EDA using language alone.
 
 [⬆ back to contents](#contents)
 
