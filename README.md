@@ -1006,6 +1006,7 @@ ogrammatically.
 - [Gptme](https://github.com/gptme/gptme) - AI agent CLI that writes code, uses terminal, browses web, and runs locally.
 - [Rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker that learns from your emails/meetings to automate drafting, prep, and tasks.
 - [Everyrow](https://github.com/futuresearch/everyrow-sdk) - AI-powered data operations SDK. Semantic deduplication, fuzzy merging, and intelligent ranking for data analysis workflows.
+- [Helium](https://github.com/connerlambden/helium-mcp) - Data analysis API for news search (3.2M+ articles, 5000+ sources) with bias scoring across 15+ dimensions, market data (stocks, ETFs, crypto) with AI-generated analysis, ML options pricing with probability models, and multi-perspective news synthesis. Available as a REST API or MCP server. Docs: https://heliumtrades.com/mcp-page/
 - [Personal Ai Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Framework for building a personal AI assistant with memory, skills, and learning ability.
 - [N8N Workflows](https://github.com/Zie619/n8n-workflows) - Collection of ready-to-use workflow templates for the n8n automation platform.
 - [Skyvern](https://github.com/Skyvern-AI/skyvern) - AI browser automation using LLMs & computer vision. Playwright-compatible SDK + no-code workflows.
