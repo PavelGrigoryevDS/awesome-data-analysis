@@ -1406,6 +1406,7 @@ A variety of resources to help you prepare for interviews and enhance your resum
 - [Devinterview](https://devinterview.io/) - Ace your next tech interview with confidence.
 - [Interviewqs](https://www.interviewqs.com/) - Ace your next data science interview.
 - [Cracking Data Science Interview](https://github.com/khanhnamle1994/cracking-the-data-science-interview) - A Collection of Cheatsheets, Books, Questions, and Portfolio For DS/ML Interview Prep.
+- [Dataford](https://dataford.io) - Interview guides for data engineering, data science, ML, analytics, and PM roles.
 - [Interview Query](https://www.interviewquery.com/) - Another platform to prepare for data science interviews.
 - [Awesome Behavioral Interviews](https://github.com/ashishps1/awesome-behavioral-interviews) - Curated resources for mastering behavioral and system design interviews.
 - [Enhancv Data Scientist Resumes](https://enhancv.com/resume-examples/data-scientist/) - A collection of resume examples and tips tailored for data scientists.
