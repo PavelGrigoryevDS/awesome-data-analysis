@@ -1407,6 +1407,7 @@ A variety of resources to help you prepare for interviews and enhance your resum
 - [Interviewqs](https://www.interviewqs.com/) - Ace your next data science interview.
 - [Cracking Data Science Interview](https://github.com/khanhnamle1994/cracking-the-data-science-interview) - A Collection of Cheatsheets, Books, Questions, and Portfolio For DS/ML Interview Prep.
 - [Interview Query](https://www.interviewquery.com/) - Another platform to prepare for data science interviews.
+- [Hanzilla Jobs - Data & ML](https://jobs.hanzilla.co/categories/data-ml/) - Daily-updated Canadian student and recent-grad board for data, analytics, AI/ML, internship, co-op, new-grad, junior, and entry-level roles.
 - [Awesome Behavioral Interviews](https://github.com/ashishps1/awesome-behavioral-interviews) - Curated resources for mastering behavioral and system design interviews.
 - [Enhancv Data Scientist Resumes](https://enhancv.com/resume-examples/data-scientist/) - A collection of resume examples and tips tailored for data scientists.
 - [Data Science Portfolio](https://www.datascienceportfol.io/) - A platform to create and showcase your data science portfolio.
