@@ -33,6 +33,7 @@ Maintained with ❤️
     - [Specialized Data Tools](#python-specialized-data-tools)
 - [🗃️ SQL \& Databases](#sql-databases)
   - [Resources](#sql-databases-resources)
+  - [Databases](#sql-databases-engines)
   - [Tools](#sql-databases-tools)
 - [📊 Data Visualization](#data-visualization)
   - [Resources](#data-visualization-resources)
@@ -327,6 +328,34 @@ SQL tutorials and database design principles.
 
 ---
 
+<a id="sql-databases-engines"></a>
+
+### Databases
+
+Popular open-source database systems for a variety of use cases and data models.
+
+- [SQLite](https://github.com/sqlite/sqlite) – Embedded, file‑based SQL engine, the most used database in the world.
+- [PostgreSQL](https://github.com/postgres/postgres) – Advanced open‑source relational database with extensibility and SQL compliance.
+- [MySQL](https://github.com/mysql/mysql-server) – Widely used relational database management system (Oracle’s community version).
+- [MariaDB](https://github.com/MariaDB/server) – Community developed fork of MySQL with enhanced features.
+- [DuckDB](https://github.com/duckdb/duckdb) – In‑process analytical database designed for fast OLAP queries.
+- [ClickHouse](https://github.com/ClickHouse/ClickHouse) – Columnar database for real‑time analytics on large datasets.
+- [Apache Cloudberry](https://github.com/apache/cloudberry) - A mature open-source MPP database evolved from Greenplum with a newer PostgreSQL kernel.
+- [TimescaleDB](https://github.com/timescale/timescaledb) – Time‑series SQL database built on PostgreSQL.
+- [TDengine](https://github.com/taosdata/TDengine) – Time‑series database for IoT, vehicles, and industrial monitoring.
+- [MongoDB](https://github.com/mongodb/mongo) – Document database with a flexible, JSON‑like data model.
+- [Cassandra](https://github.com/apache/cassandra) – Highly scalable, distributed NoSQL database for large‑scale deployments.
+- [Redis](https://github.com/redis/redis) – In‑memory data structure store used as database, cache, and message broker.
+- [CockroachDB](https://github.com/cockroachdb/cockroach) – Distributed SQL database with strong consistency and horizontal scaling.
+- [Neo4j](https://github.com/neo4j/neo4j) – Native graph database for connected data and relationships.
+- [InfluxDB](https://github.com/influxdata/influxdb) – Purpose‑built time‑series database for metrics and events.
+- [ScyllaDB](https://github.com/scylladb/scylla) – Drop‑in Cassandra alternative written in C++ for higher performance.
+- [Apache HBase](https://github.com/apache/hbase) – Distributed, scalable, big data store modeled after Google's Bigtable, running on top of HDFS.
+
+[⬆ back to contents](#contents)
+
+---
+
 <a id="sql-databases-tools"></a>
 
 ### Tools
@@ -340,7 +369,6 @@ A collection of libraries and drivers for seamless database access and interacti
 - [PonyORM](https://github.com/ponyorm/pony) - ORM for Python with dynamic query generation.
 - [PyMongo](https://github.com/mongodb/mongo-python-driver) - Official MongoDB driver for Python.
 - [SQLiteviz](https://github.com/lana-k/sqliteviz) - A tool for exploring SQLite databases and visualizing the results of your queries.
-- [SQLite](https://github.com/sqlite/sqlite) - A C-language library that implements a small, fast, self-contained, high-reliability, full-featured SQL database engine.
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - A high quality, visual, open source tool to create, design, and edit database files compatible with SQLite.
 - [DBeaver](https://github.com/dbeaver/dbeaver) - A free universal database tool and SQL client for developers, SQL programmers, and administrators.
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - A modern, easy-to-use SQL client and database manager with a clean, cross-platform interface.
@@ -352,9 +380,6 @@ A collection of libraries and drivers for seamless database access and interacti
 - [Records](https://github.com/kennethreitz-archive/records) - SQL queries to databases via Python syntax.
 - [Dataset](https://github.com/pudo/dataset) - JSON-like interface for working with SQL databases.
 - [SQLGlot](https://github.com/tobymao/sqlglot) - A no-dependency SQL parser, transpiler, and optimizer for Python.
-- [TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed for time-series data, IoT, and industrial monitoring.
-- [TimescaleDB](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.
-- [DuckDB](https://github.com/duckdb/duckdb) - In-memory analytical database for fast SQL queries.
 
 [⬆ back to contents](#contents)
 
