@@ -139,7 +139,6 @@ Resources should be:
 
 ## Review Process
 
-- PRs will be reviewed within 1-3 days
 - We may suggest improvements before merging
 
 Thank you for helping improve this awesome list!
