@@ -209,6 +209,7 @@ A collection of Python libraries for efficient data manipulation, cleaning, visu
 - [Numba](https://github.com/numba/numba) - A JIT compiler that translates a subset of Python and NumPy code into fast machine code.
 - [Pandas Stubs](https://github.com/pandas-dev/pandas-stubs) - Type stubs for pandas, improves IDE autocompletion.
 - [Petl](https://github.com/petl-developers/petl) - ETL tool for data cleaning and transformation.
+- [StaticFeed](https://github.com/jackydangelo/staticfeed) - A zero-cost, memory-efficient Python RSS data ingestion pipeline that fetches, normalizes, and deduplicates web feeds via GitHub Actions and Pages.
 
 [⬆ back to contents](#contents)
 
