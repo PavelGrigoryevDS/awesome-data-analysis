@@ -1031,7 +1031,8 @@ ogrammatically.
 - [Local Deep Research](https://github.com/LearningCircuit/local-deep-research) - Local AI research assistant that searches web, papers, and documents.
 - [Gptme](https://github.com/gptme/gptme) - AI agent CLI that writes code, uses terminal, browses web, and runs locally.
 - [Rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker that learns from your emails/meetings to automate drafting, prep, and tasks.
-- [FutureSearch SDK](https://github.com/futuresearch/futuresearch-python) - AI-powered data operations SDK. Semantic deduplication, fuzzy merging, and intelligent ranking for data analysis workflows.
+- [FutureSearch SDK](https://github.com/futuresearch/futuresearch-python) - Python SDK that dispatches parallel web-research agents across
+  table rows, synthesizing multi-agent findings into structured columns.
 - [Personal Ai Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Framework for building a personal AI assistant with memory, skills, and learning ability.
 - [N8N Workflows](https://github.com/Zie619/n8n-workflows) - Collection of ready-to-use workflow templates for the n8n automation platform.
 - [Skyvern](https://github.com/Skyvern-AI/skyvern) - AI browser automation using LLMs & computer vision. Playwright-compatible SDK + no-code workflows.
