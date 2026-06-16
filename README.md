@@ -539,6 +539,7 @@ A collection of valuable resources, tutorials, and libraries for web scraping wi
 - [Python Scraping](https://github.com/REMitchell/python-scraping) - Code samples from the book "Web Scraping with Python".
 - [Scraping Tutorial](https://github.com/Blatzar/scraping-tutorial) - Tutorial for scraping streaming sites.
 - [Webscraping from 0 to Hero](https://github.com/TheWebScrapingClub/webscraping-from-0-to-hero) - An open project repository sharing knowledge and experiences about web scraping with Python.
+- [Build a Competitor Analysis Agent](https://superhighway.walls.sh/guides/competitor-analysis-agent) - Python tutorial that scrapes competitor sites and chains search, news, and research APIs to generate competitive intelligence reports.
 
 [⬆ back to contents](#contents)
 
