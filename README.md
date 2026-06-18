@@ -1074,6 +1074,7 @@ ogrammatically.
 - [DeepEval](https://github.com/confident-ai/deepeval) - Pytest-style unit testing framework for LLMs. Metrics for RAG, agents, hallucination, summarization, and custom criteria.
 - [RAGAS](https://github.com/vibrantlabsai/ragas) - Evaluation toolkit for LLM apps. Metrics, test generation, and insights for optimizing RAG pipelines and agents.
 - [Phoenix](https://github.com/Arize-ai/phoenix) - AI observability platform. Tracing, datasets, experiments, and playground for troubleshooting and evaluating LLM apps.
+- [Future AGI](https://github.com/future-agi/future-agi) - Open-source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable. Apache-2.0.
 - [WFGY](https://github.com/onestardao/WFGY) - Open-source debugging infrastructure for RAG and AI agents. Includes 16-problem RAG failure map and TXT stress-test engine.
 
 #### End-User Applications
