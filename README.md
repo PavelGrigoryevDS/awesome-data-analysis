@@ -1075,6 +1075,7 @@ ogrammatically.
 - [RAGAS](https://github.com/vibrantlabsai/ragas) - Evaluation toolkit for LLM apps. Metrics, test generation, and insights for optimizing RAG pipelines and agents.
 - [Phoenix](https://github.com/Arize-ai/phoenix) - AI observability platform. Tracing, datasets, experiments, and playground for troubleshooting and evaluating LLM apps.
 - [WFGY](https://github.com/onestardao/WFGY) - Open-source debugging infrastructure for RAG and AI agents. Includes 16-problem RAG failure map and TXT stress-test engine.
+- [Future AGI](https://github.com/future-agi/future-agi) - Open-source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable. Apache-2.0.
 
 #### End-User Applications
 
