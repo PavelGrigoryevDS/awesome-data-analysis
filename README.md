@@ -1605,7 +1605,7 @@ A collection of supplementary Python libraries that enhance development workflow
 - [PyMuPDF](https://github.com/pymupdf/PyMuPDF) - Advanced PDF manipulation library.
 - [Camelot](https://github.com/camelot-dev/camelot) - PDF table extraction library.
 - [Marker](https://github.com/datalab-to/marker) - Fast, high-accuracy PDF and document conversion tool with layout preservation.
-
+- [csvtidy](https://github.com/abhishekrai43/csvtidy) - Clean and merge messy CSV files from the command line; offline, DuckDB-powered (handles files bigger than RAM), recipe-driven.
 [⬆ back to contents](#contents)
 
 ---
