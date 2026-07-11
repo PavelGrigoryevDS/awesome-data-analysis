@@ -289,6 +289,7 @@ A collection of Python libraries for efficient data manipulation, cleaning, visu
 - [Geopandas](https://github.com/geopandas/geopandas) - Geographic data operations with pandas.
 - [NetworkX](https://github.com/networkx/networkx) - Network analysis and graph theory.
 - [Chardet](https://github.com/chardet/chardet) - Python library to detect the character encoding of text and files.
+- [BDE Score](https://github.com/hbhqq9/bde-score) - Multi-factor stock analysis tool scoring Business health, Data integrity, and Expert momentum across US/HK/CN markets.
 
 [⬆ back to contents](#contents)
 
