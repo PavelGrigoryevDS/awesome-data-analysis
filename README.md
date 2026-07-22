@@ -439,6 +439,7 @@ Libraries for static, interactive, and 3D visualizations.
 - [Python for Geo](https://github.com/geopandas/contextily) - Contextily: add background basemaps to your plots in GeoPandas.
 - [OSMnx](https://github.com/gboeing/osmnx) - A package to easily download, model, analyze, and visualize street networks from OpenStreetMap.
 - [Apache ECharts](https://github.com/apache/echarts) - A powerful, interactive charting and visualization library for browser-based applications.
+- [ggaction](https://github.com/ggaction/ggaction) - An experimental JavaScript library for building and revising charts through immutable, traceable graphical actions.
 - [VisPy](https://github.com/vispy/vispy) - A high-performance interactive 2D/3D data visualization library leveraging the power of OpenGL.
 - [Glumpy](https://github.com/glumpy/glumpy) - A Python library for scientific visualization that is fast, scalable and beautiful, based on OpenGL.
 - [Pandas-bokeh](https://github.com/PatrikHlobil/Pandas-Bokeh) - Bokeh plotting backend for Pandas.
