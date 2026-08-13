@@ -1247,6 +1247,7 @@ A collection of resources to enhance productivity.
 - [QuarkDown](https://github.com/iamgio/quarkdown) - Lightweight markdown processor for fast document rendering.
 - [screenshot-to-code](https://github.com/abi/screenshot-to-code) - AI tool that converts screenshots into code for various frontend stacks.
 - [Codebeautify](https://codebeautify.org/) - All-in-one online code formatter and beautifier for Python, SQL, JSON, and more.
+- [JSON Viewer Tool](https://jsonviewertool.com/) - Online JSON viewer and converter for turning API responses into CSV or Excel for analysis.
 - [Notion](https://www.notion.com/) - An all-in-one workspace for note-taking and task management.
 - [Trello](https://trello.com/home) - A visual project management tool.
 - [Habitica](https://github.com/HabitRPG/habitica) - A habit-building and productivity app that treats your life like a role-playing game.
