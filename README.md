@@ -148,6 +148,7 @@ A collection of resources for learning and mastering Python programming.
 - [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-data-science) - A curated list of Python resources for data science.
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Full text of the "Python Data Science Handbook" in Jupyter Notebooks.
 - [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges.
+- [Pythonlings](https://github.com/abhiksark/pythonlings) - A terminal-based learning tool with 292 fix-and-verify exercises across 31 Python topics.
 - [Clean Code Python](https://github.com/zedr/clean-code-python) - Clean Code concepts adapted for Python.
 - [Best of Python](https://github.com/ml-tooling/best-of-python) - A ranked list of awesome Python open-source libraries and tools.
 - [GeeksforGeeks Python](https://www.geeksforgeeks.org/python-programming-language-tutorial/) - Python tutorial from GeeksforGeeks.
