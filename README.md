@@ -1425,6 +1425,7 @@ A collection of resources for accessing datasets and data sources for analysis a
 - [Google Dataset Search](https://datasetsearch.research.google.com/) - A search engine for datasets from across the web.
 - [NASA Open Data Portal](https://data.nasa.gov/) - A site for NASA's open data initiative, providing access to NASA's data resources.
 - [The World Bank Data](https://data.worldbank.org/) - Free and open access to global development data by The World Bank.
+- [DataInt Databook](https://databook.dataint.net) - Country reference pages for 250 countries (population, economy, geography, infrastructure, governance) compiled from World Bank, UN and UNESCO sources with per-figure source attribution; browse-only, no bulk download.
 - [Voice Datasets](https://github.com/jim-schwoebel/voice_datasets) - A collection of audio and speech datasets for voice AI and machine learning.
 - [HuggingFace Datasets](https://github.com/huggingface/datasets) - A lightweight library to easily share and access datasets for audio, computer vision, and NLP.
 - [TensorFlow Datasets](https://github.com/tensorflow/datasets) - A collection of ready-to-use datasets for use with TensorFlow and other Python ML frameworks.
