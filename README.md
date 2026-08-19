@@ -373,6 +373,7 @@ A collection of libraries and drivers for seamless database access and interacti
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - A high quality, visual, open source tool to create, design, and edit database files compatible with SQLite.
 - [DBeaver](https://github.com/dbeaver/dbeaver) - A free universal database tool and SQL client for developers, SQL programmers, and administrators.
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - A modern, easy-to-use SQL client and database manager with a clean, cross-platform interface.
+- [DBTool](https://github.com/achi777/db-tool) - A free, open-source desktop client for PostgreSQL, MySQL, MariaDB, SQLite, Oracle and SQL Server, with server-side pagination, a drag-to-join visual query builder and editable ER diagrams.
 - [DBConvert Streams](https://streams.dbconvert.com/) - Database IDE for exploring, migrating, and syncing PostgreSQL, MySQL, files, and S3.
 - [SQLFluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter designed to enforce consistent style and catch errors in SQL code.
 - [PyMySQL](https://github.com/PyMySQL/PyMySQL) - A pure-Python MySQL client library for interacting with MySQL databases from Python applications.
