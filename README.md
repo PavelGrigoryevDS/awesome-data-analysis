@@ -374,6 +374,7 @@ A collection of libraries and drivers for seamless database access and interacti
 - [DBeaver](https://github.com/dbeaver/dbeaver) - A free universal database tool and SQL client for developers, SQL programmers, and administrators.
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - A modern, easy-to-use SQL client and database manager with a clean, cross-platform interface.
 - [DBConvert Streams](https://streams.dbconvert.com/) - Database IDE for exploring, migrating, and syncing PostgreSQL, MySQL, files, and S3.
+- [Bytebase](https://github.com/bytebase/bytebase) - Database DevSecOps platform for teams: governed data access requests, data masking, SQL review, and compliance/audit across PostgreSQL, MySQL, and more.
 - [SQLFluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter designed to enforce consistent style and catch errors in SQL code.
 - [PyMySQL](https://github.com/PyMySQL/PyMySQL) - A pure-Python MySQL client library for interacting with MySQL databases from Python applications.
 - [Vanna.AI](https://github.com/vanna-ai/vanna) - An AI-powered tool for generating SQL queries from natural language questions.
