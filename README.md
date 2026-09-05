@@ -1467,6 +1467,7 @@ A variety of resources to help you prepare for interviews and enhance your resum
 - [Bartosz Jarocki's CV](https://github.com/BartoszJarocki/cv) - Modern, open-source technical resume template and example.
 - [Awesome-CV](https://github.com/posquit0/Awesome-CV) - Professional CV and resume templates built with LaTeX.
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - Open-source resume builder with multiple templates and customization options.
+- [ResumeAI](https://withresumeai.com/) - Free ATS checker + AI resume builder; [State of ATS 2026](https://github.com/Kayvan-Zahiri/state-of-ats-2026) dataset (738 employers / 704 portal-verified).
 - [Best Resume Ever](https://github.com/salomonelli/best-resume-ever) - Collection of modern resume templates and CV examples.
 
 [⬆ back to contents](#contents)
