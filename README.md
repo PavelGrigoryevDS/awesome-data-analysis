@@ -571,6 +571,7 @@ A list of libraries and tools for web scraping.
 - [Helium](https://github.com/mherrmann/helium) - High-level Selenium wrapper for easier web automation.
 - [Scrapling](https://github.com/D4Vinci/Scrapling) - A framework for building web scrapers and crawlers.
 - [Crawl4AI](https://github.com/unclecode/crawl4ai) - Advanced web crawling framework designed for AI and data extraction tasks.
+- [Prism](https://github.com/millennialdreamer/prism) - A framework that turns social posts from Xiaohongshu, Douyin, Bilibili and Kuaishou into comparable metrics on one unified schema.
 
 [⬆ back to contents](#contents)
 
