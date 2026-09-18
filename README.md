@@ -71,6 +71,7 @@ Maintained with ❤️
 - [☁️ Cloud Platforms & Infrastructure](#cloud-platforms)
   - [Resources](#cloud-platform-resources)
   - [Tools](#cloud-platform-tools)
+- [🏗️ System Design & Architecture](#system-design)
 - [⚡ Productivity](#productivity)
   - [Resources](#productivity-resources)
   - [Useful Linux Tools](#productivity-useful-linux-tools)
@@ -1031,7 +1032,8 @@ ogrammatically.
 - [Local Deep Research](https://github.com/LearningCircuit/local-deep-research) - Local AI research assistant that searches web, papers, and documents.
 - [Gptme](https://github.com/gptme/gptme) - AI agent CLI that writes code, uses terminal, browses web, and runs locally.
 - [Rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker that learns from your emails/meetings to automate drafting, prep, and tasks.
-- [Everyrow](https://github.com/futuresearch/everyrow-sdk) - AI-powered data operations SDK. Semantic deduplication, fuzzy merging, and intelligent ranking for data analysis workflows.
+- [FutureSearch SDK](https://github.com/futuresearch/futuresearch-python) - Python SDK that dispatches parallel web-research agents across
+  table rows, synthesizing multi-agent findings into structured columns.
 - [Personal Ai Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Framework for building a personal AI assistant with memory, skills, and learning ability.
 - [N8N Workflows](https://github.com/Zie619/n8n-workflows) - Collection of ready-to-use workflow templates for the n8n automation platform.
 - [Skyvern](https://github.com/Skyvern-AI/skyvern) - AI browser automation using LLMs & computer vision. Playwright-compatible SDK + no-code workflows.
@@ -1190,6 +1192,28 @@ Tools for containerization, orchestration, infrastructure as code, and cloud-nat
 #### Additional Tools
 
 - [Vagrant](https://github.com/hashicorp/vagrant) - Tool for building and managing portable virtual development environments as code.
+
+[⬆ back to contents](#contents)
+
+---
+
+<a id="system-design"></a>
+
+## 🏗️ System Design & Architecture
+
+Resources for building and architecting robust, scalable data systems.
+
+- [System Design Primer](https://github.com/donnemartin/system-design-primer) - Comprehensive guide to large-scale system design. Includes Anki flashcards for interview prep.
+- [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) - Design patterns for building scalable systems with real-world case studies from Netflix, Facebook, and Uber.
+- [System Design 101](https://github.com/ByteByteGoHq/system-design-101) - Visual introduction to system design concepts with detailed diagrams and illustrations.
+- [Awesome System Design Resources](https://github.com/ashishps1/awesome-system-design-resources) - Curated collection of articles, videos, books, and interview questions.
+- [System Design](https://github.com/karanpratapsingh/system-design) - Concise course covering load balancing, caching, databases, and CAP theorem.
+- [System Design Academy](https://github.com/systemdesign42/system-design-academy) - Practical system design examples and structured interview preparation.
+- [Awesome Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture) - Extensive catalog of software architecture articles, books, and tools.
+- [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns) - Collection of patterns from code-level to microservices and big data.
+- [System Design Resources](https://github.com/InterviewReady/system-design-resources) - Practical questions, diagrams, and solutions for architecture interviews.
+- [Domain-Driven Hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Deep dive into Domain-Driven Design (DDD) and hexagonal architecture.
+- [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems) - Collection of design system guides and component libraries for large projects.
 
 [⬆ back to contents](#contents)
 
@@ -1701,7 +1725,6 @@ A curated list of other awesome lists on various topics and technologies.
 - [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - Resources, tips, and tools for finding and thriving in remote work.
 - [Awesome Asyncio](https://github.com/timofurrer/awesome-asyncio) - Curated list of frameworks, libraries, and utilities for asyncio-based Python programming.
 - [Awesome Zsh Plugins](https://github.com/unixorn/awesome-zsh-plugins) - Massive collection of plugins, themes, and resources for customizing Zsh.
-- [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) - Structured guide to design patterns for building scalable and reliable systems.
 - [Books](https://github.com/linsa-io/books) - Collection of links to free technical books on programming, databases, DevOps, and analytics.
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) - Largest multilingual collection of free programming books and learning materials.
 
