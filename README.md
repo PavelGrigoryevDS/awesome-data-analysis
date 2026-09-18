@@ -1620,6 +1620,7 @@ A collection of supplementary Python libraries that enhance development workflow
 - [PyPDF2](https://github.com/py-pdf/PyPDF2) - Reads and writes PDF files.
 - [Python-docx](https://github.com/python-openxml/python-docx) - Reads and writes Word documents.
 - [CleverCSV](https://github.com/alan-turing-institute/CleverCSV) - Smart CSV reader for messy data.
+- [csvtidy](https://github.com/abhishekrai43/csvtidy) - CLI to clean and merge messy CSV files, offline and DuckDB-powered.
 - [Python-markdownify](https://github.com/matthewwithanm/python-markdownify) - Convert HTML to Markdown.
 - [Xlwings](https://github.com/xlwings/xlwings) - Integration of Python with Excel.
 - [Xmltodict](https://github.com/martinblech/xmltodict) - Converts XML to Python dictionaries.
@@ -1629,7 +1630,6 @@ A collection of supplementary Python libraries that enhance development workflow
 - [PyMuPDF](https://github.com/pymupdf/PyMuPDF) - Advanced PDF manipulation library.
 - [Camelot](https://github.com/camelot-dev/camelot) - PDF table extraction library.
 - [Marker](https://github.com/datalab-to/marker) - Fast, high-accuracy PDF and document conversion tool with layout preservation.
-- [csvtidy](https://github.com/abhishekrai43/csvtidy) - Clean and merge messy CSV files from the command line; offline, DuckDB-powered (handles files bigger than RAM), recipe-driven.
 [⬆ back to contents](#contents)
 
 ---
