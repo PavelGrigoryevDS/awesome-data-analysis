@@ -1380,7 +1380,6 @@ A collection of resources to enhance skills and advance your career in data anal
 - [Hugging Face Tasks](https://huggingface.co/tasks) - Hands-on practice with specific NLP and machine learning tasks using real models.
 - [Awesome LeetCode Resources](https://github.com/ashishps1/awesome-leetcode-resources) - Collection of curated resources and strategies for LeetCode practice.
 - [Leetcode Company Wise Problems](https://github.com/liquidslr/leetcode-company-wise-problems) - Company-wise Leetcode problems for interview preparation.
-- [Caso Abierto](https://caso-abierto.christianvadillo.workers.dev) - Detective game where you solve cases by writing real SQL (DuckDB-WASM in the browser); first case is free.
 
 [⬆ back to contents](#contents)
 
