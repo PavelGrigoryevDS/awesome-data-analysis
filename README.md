@@ -324,6 +324,7 @@ SQL tutorials and database design principles.
 - [AnimateSQL](https://animatesql.com/) - Interactive tool that visualizes the step-by-step execution of SQL queries.
 - [SQL Tips and Tricks](https://github.com/ben-nour/SQL-tips-and-tricks) - Useful SQL techniques and optimizations for data analysis.
 - [Practice Window Functions](https://www.practicewindowfunctions.com) - Free interactive SQL tutorial site focused on mastering window functions through 80+ hands-on problems with hints and solutions.
+- [SQL Traps](https://github.com/christianvadillo/sql-traps) - 15 SQL mistakes that return wrong results without an error, each with a broken query, the fix, and a DuckDB script that verifies it.
 
 [⬆ back to contents](#contents)
 
@@ -1379,6 +1380,7 @@ A collection of resources to enhance skills and advance your career in data anal
 - [Hugging Face Tasks](https://huggingface.co/tasks) - Hands-on practice with specific NLP and machine learning tasks using real models.
 - [Awesome LeetCode Resources](https://github.com/ashishps1/awesome-leetcode-resources) - Collection of curated resources and strategies for LeetCode practice.
 - [Leetcode Company Wise Problems](https://github.com/liquidslr/leetcode-company-wise-problems) - Company-wise Leetcode problems for interview preparation.
+- [Caso Abierto](https://caso-abierto.christianvadillo.workers.dev) - Detective game where you solve cases by writing real SQL (DuckDB-WASM in the browser); first case is free.
 
 [⬆ back to contents](#contents)
 
