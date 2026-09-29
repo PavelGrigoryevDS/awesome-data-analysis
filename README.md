@@ -376,7 +376,7 @@ A collection of libraries and drivers for seamless database access and interacti
 - [DBConvert Streams](https://streams.dbconvert.com/) - Database IDE for exploring, migrating, and syncing PostgreSQL, MySQL, files, and S3.
 - [SQLFluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter designed to enforce consistent style and catch errors in SQL code.
 - [PyMySQL](https://github.com/PyMySQL/PyMySQL) - A pure-Python MySQL client library for interacting with MySQL databases from Python applications.
-- [Vanna.AI](https://github.com/vanna-ai/vanna) - An AI-powered tool for generating SQL queries from natural language questions.
+- [Vanna.AI](https://github.com/vanna-ai/vanna) - An AI-powered tool for generating SQL queries from natural language questions. Archived in March 2026; maintained drop-in fork: [asksql](https://github.com/buhtig47/asksql).
 - [SQLChat](https://github.com/sqlchat/sqlchat) - A chat-based SQL client that allows you to query databases using natural language conversations.
 - [Records](https://github.com/kennethreitz-archive/records) - SQL queries to databases via Python syntax.
 - [Dataset](https://github.com/pudo/dataset) - JSON-like interface for working with SQL databases.
