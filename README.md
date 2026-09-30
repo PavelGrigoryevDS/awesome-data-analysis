@@ -588,6 +588,7 @@ A collection of resources for learning mathematics, particularly in the context 
 - [Immersive Linear Algebra](http://immersivemath.com/ila/) - Interactive resource for understanding linear algebra.
 - [Hackermath](https://github.com/amitkaps/hackermath) - Resource for learning statistics and mathematics for data science.
 - [Stats Maths with Python](https://github.com/tirthajyoti/Stats-Maths-with-Python) - Collection of Python scripts and notebooks for statistics and mathematics.
+- [Awesome Python Math Packages](https://github.com/VascoSch92/awesome_python_math_packages) - A curated list of Python packages for mathematics, grouped by field.
 - [Fast.ai - Computational Linear Algebra](https://github.com/fastai/numerical-linear-algebra) - Resource for learning linear algebra computationally.
 
 [⬆ back to contents](#contents)
