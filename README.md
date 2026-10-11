@@ -660,6 +660,7 @@ A collection of tools focused on statistics and probability.
 
 A collection of resources focused on A/B testing.
 
+- [A/B Test Duration Estimate](https://twinpage.app/guides/how-long-to-run-an-ab-test) - Free estimate of how many visits and weeks a test needs, from your monthly traffic, conversion rate and number of versions, with example tables.
 - [DynamicYield A/B Testing](https://www.dynamicyield.com/course/testing-and-optimization/) - An online course covering advanced testing and optimization techniques.
 - [Evan's Awesome A/B Tools](https://www.evanmiller.org/ab-testing/) - A/B test calculators.
 - [Experimentguide](https://experimentguide.com/) - A practical guide to A/B testing and experimentation from industry leaders.
