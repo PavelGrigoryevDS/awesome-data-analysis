@@ -1374,6 +1374,7 @@ A collection of resources to enhance skills and advance your career in data anal
 - [Workout Wednesday](https://workout-wednesday.com/) - Engage in weekly challenges to improve your visualization skills.
 - [Official TidyTuesday Repository](https://github.com/rfordatascience/tidytuesday) - Repository for the TidyTuesday project, promoting data analysis.
 - [DrivenData Competitions](https://www.drivendata.org/competitions/) - Data analysis competitions with a social impact focus.
+- [AI Competition Radar](https://www.aicompetition.dev/en) - Calendar of upcoming AI and machine learning competitions and hackathons with deadlines and official links.
 - [Codecademy Data Science Path](https://www.codecademy.com/learn/paths/data-science) - Interactive courses for learning data analysis.
 - [SQL Masterclass](https://github.com/datawithdanny/sql-masterclass?tab=readme-ov-file#course-content) - A course to master SQL for data analysis, complete with real-world projects.
 - [Hugging Face Tasks](https://huggingface.co/tasks) - Hands-on practice with specific NLP and machine learning tasks using real models.
