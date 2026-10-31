@@ -1433,6 +1433,7 @@ A collection of resources for accessing datasets and data sources for analysis a
 - [LLM Datasets](https://github.com/mlabonne/llm-datasets) - A collection of datasets and resources for training and fine-tuning Large Language Models (LLMs).
 - [Unsplash Datasets](https://github.com/unsplash/datasets) - A collection of datasets from Unsplash, useful for computer vision and research.
 - [Awesome JSON Datasets](https://github.com/jdorfman/awesome-json-datasets?tab=readme-ov-file#bitcoin) - A curated list of awesome JSON datasets that are publicly available without authentication.
+- [AI Certifications Dataset](https://aicoursecheck.com/data/) - JSON records of AI certifications: issuer-stated prices, exam format, validity, eligibility and source URLs, with null for facts an issuer doesn't state. CC BY 4.0.
 
 [⬆ back to contents](#contents)
 
