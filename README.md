@@ -1385,6 +1385,8 @@ A collection of resources to enhance skills and advance your career in data anal
 - [Hugging Face Tasks](https://huggingface.co/tasks) - Hands-on practice with specific NLP and machine learning tasks using real models.
 - [Awesome LeetCode Resources](https://github.com/ashishps1/awesome-leetcode-resources) - Collection of curated resources and strategies for LeetCode practice.
 - [Leetcode Company Wise Problems](https://github.com/liquidslr/leetcode-company-wise-problems) - Company-wise Leetcode problems for interview preparation.
+- [Analytics from Scratch](https://github.com/Ani19arya/analytics-from-scratch) - Free, MIT-licensed analytics course of 129 tested lessons from SQL to experiments, dashboards and the job search; runs offline with Python and SQLite.
+- [Free Analyst Tools](https://realanalystjobs.com/tools) - Free in-browser SQL formatter, A/B test, sample size and statistics calculators; no account needed.
 
 [⬆ back to contents](#contents)
 
@@ -1765,6 +1767,7 @@ A wide range of resources and tools designed to facilitate learning, development
 - [A To Z Resources For Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Comprehensive list of free resources for students learning programming and tech.
 - [Summer Internships](https://github.com/SimplifyJobs/Summer2026-Internships) - Up-to-date list of summer internships in tech with deadline tracking.
 - [Football Analytics](https://github.com/eddwebster/football_analytics) - Open learning course and toolkit for football data analysis with Python and R.
+- [Analyst Job Market Report](https://realanalystjobs.com/analyst-job-market) - Live counts of analyst hiring by role, skill, country and remote share, recomputed from current listings, with methodology and public JSON.
 
 [⬆ back to contents](#contents)
 
