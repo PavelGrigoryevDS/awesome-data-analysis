@@ -769,6 +769,7 @@ A collection of tools for building, deploying, and managing data pipelines and i
 - [Apache Arrow](https://github.com/apache/arrow) - Universal columnar format and multi-language toolbox for fast data interchange.
 - [Kestra](https://github.com/kestra-io/kestra) - An open-source, event-driven orchestrator that simplifies data workflow management.
 - [Conductor](https://github.com/conductor-oss/conductor) - Orchestration engine for running complex, multi-step workflows and business processes.
+- [Dex](https://github.com/exmergo/dex) - Agent skills for analytics engineering on dbt: read-only warehouse profiling, PII flags, verified joins, reviewable model edits, and schema-drift detection.
 
 [⬆ back to contents](#contents)
 
