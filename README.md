@@ -374,6 +374,7 @@ A collection of libraries and drivers for seamless database access and interacti
 - [DBeaver](https://github.com/dbeaver/dbeaver) - A free universal database tool and SQL client for developers, SQL programmers, and administrators.
 - [StackRender](https://github.com/stackrender/stackrender) - A free visual database schema designer and SQL migration generator.
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - A modern, easy-to-use SQL client and database manager with a clean, cross-platform interface.
+- [LibreDB Studio](https://github.com/libredb/libredb-studio) - A self-hosted, browser-based SQL IDE covering sixteen database engines, with AI-assisted query writing and ER diagrams.
 - [DBConvert Streams](https://streams.dbconvert.com/) - Database IDE for exploring, migrating, and syncing PostgreSQL, MySQL, files, and S3.
 - [Bytebase](https://github.com/bytebase/bytebase) - Database DevSecOps platform for teams: governed data access requests, data masking, SQL review, and compliance/audit across PostgreSQL, MySQL, and more.
 - [SQLFluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter designed to enforce consistent style and catch errors in SQL code.
