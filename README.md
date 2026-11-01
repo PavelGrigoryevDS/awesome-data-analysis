@@ -372,6 +372,7 @@ A collection of libraries and drivers for seamless database access and interacti
 - [SQLiteviz](https://github.com/lana-k/sqliteviz) - A tool for exploring SQLite databases and visualizing the results of your queries.
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - A high quality, visual, open source tool to create, design, and edit database files compatible with SQLite.
 - [DBeaver](https://github.com/dbeaver/dbeaver) - A free universal database tool and SQL client for developers, SQL programmers, and administrators.
+- [StackRender](https://github.com/stackrender/stackrender) - A free visual database schema designer and SQL migration generator.
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - A modern, easy-to-use SQL client and database manager with a clean, cross-platform interface.
 - [DBConvert Streams](https://streams.dbconvert.com/) - Database IDE for exploring, migrating, and syncing PostgreSQL, MySQL, files, and S3.
 - [Bytebase](https://github.com/bytebase/bytebase) - Database DevSecOps platform for teams: governed data access requests, data masking, SQL review, and compliance/audit across PostgreSQL, MySQL, and more.
