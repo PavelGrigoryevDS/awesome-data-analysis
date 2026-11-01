@@ -1030,6 +1030,7 @@ ogrammatically.
 - [Flowise](https://github.com/FlowiseAI/Flowise) - Open-source UI visual tool for building custom LLM orchestration flows and AI agents.
 - [MetaGPT](https://github.com/FoundationAgents/MetaGPT) - Multi-agent framework that simulates roles in a software company to build projects.
 - [Local Deep Research](https://github.com/LearningCircuit/local-deep-research) - Local AI research assistant that searches web, papers, and documents.
+- [Dr. Claw](https://github.com/OpenLAIR/dr-claw) - Open-source research workspace for literature surveys, local experiments, data analysis, and paper writing with multiple AI agent backends.
 - [Gptme](https://github.com/gptme/gptme) - AI agent CLI that writes code, uses terminal, browses web, and runs locally.
 - [Rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker that learns from your emails/meetings to automate drafting, prep, and tasks.
 - [FutureSearch SDK](https://github.com/futuresearch/futuresearch-python) - Python SDK that dispatches parallel web-research agents across
