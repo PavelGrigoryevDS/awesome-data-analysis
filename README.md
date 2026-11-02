@@ -664,6 +664,7 @@ A collection of tools focused on statistics and probability.
 
 A collection of resources focused on A/B testing.
 
+- [A/B Test Sample Size Calculator MCP](https://github.com/theluckystrike/ab-test-sample-size-calculator-mcp) - Free MIT-licensed MCP server for Claude, ChatGPT and Cursor that calculates A/B test sample size and duration and runs z-test, chi-square and Fisher exact tests.
 - [DynamicYield A/B Testing](https://www.dynamicyield.com/course/testing-and-optimization/) - An online course covering advanced testing and optimization techniques.
 - [Evan's Awesome A/B Tools](https://www.evanmiller.org/ab-testing/) - A/B test calculators.
 - [Experimentguide](https://experimentguide.com/) - A practical guide to A/B testing and experimentation from industry leaders.
