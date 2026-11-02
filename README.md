@@ -625,6 +625,7 @@ A selection of resources focused on statistics and probability, including tutori
 - [Causal Inference: The Mixtape](https://mixtape.scunning.com/) - Practical guide to causal inference methods.
 - [The Effect](https://theeffectbook.net/) - Modern introduction to causality and research design.
 - [The Statistics Handbook](https://github.com/carloocchiena/the_statistics_handbook) - Open-source statistics hands-on handbook.
+- [Thinking in Degrees of Belief: A practical Bayesian guide for analysts who know p-values](https://tailoredread.com/book/thinking-degrees-belief-practical-bayesian-guide-74e6c9fc6704) - Free complete book on Bayesian statistics for analysts, written with AI. Read online or download the PDF or EPUB.
 
 [⬆ back to contents](#contents)
 
