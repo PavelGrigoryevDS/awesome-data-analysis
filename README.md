@@ -1771,6 +1771,7 @@ A wide range of resources and tools designed to facilitate learning, development
 ---
 
 <a id="contributing"></a>
+- [StatOrigin](https://statorigin.org/) - A free, open database of industry statistics where every figure traces back to its primary source.
 
 ## 🤝 Contributing
 
