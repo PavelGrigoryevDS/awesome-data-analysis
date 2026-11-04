@@ -524,6 +524,7 @@ A list of leading tools and platforms for data visualization and dashboard creat
 - [Google Data Studio](https://datastudio.google.com) - Free tool for creating interactive dashboards and reports.
 - [Rath](https://github.com/Kanaries/Rath) - Next-generation automated data exploratory analysis and visualization platform.
 - [Kibana](https://github.com/elastic/kibana) - The official visualization and dashboarding tool for the Elastic Stack (Elasticsearch, Logstash, Beats).
+- [arcodash](https://www.arcodash.com) - Hosted SQL dashboards with built-in data checks and alerts on freshness, row count and null rate.
 
 [⬆ back to contents](#contents)
 
