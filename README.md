@@ -1060,6 +1060,7 @@ ogrammatically.
 - [Langflow](https://github.com/langflow-ai/langflow) - Powerful visual platform for building and deploying AI-powered agents and workflows.
 - [NeMo](https://github.com/NVIDIA-NeMo/NeMo) - Scalable generative AI framework from NVIDIA for LLMs, Multimodal, and Speech AI.
 - [Deepcode](https://github.com/HKUDS/DeepCode) - AI-powered agent framework for automatic code generation from research papers and text.
+- [AVA](https://github.com/antvis/AVA) - AntV's TypeScript framework for AI agents to query files and databases, reuse business definitions, and generate interactive charts with inspectable queries and results.
 
 #### Code Generation & Assistance
 
