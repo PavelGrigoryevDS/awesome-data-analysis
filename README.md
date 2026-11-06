@@ -1465,6 +1465,7 @@ A variety of resources to help you prepare for interviews and enhance your resum
 - [Dataford](https://dataford.io) - Interview guides for data engineering, data science, ML, analytics, and PM roles.
 - [Interview Query](https://www.interviewquery.com/) - Another platform to prepare for data science interviews.
 - [Awesome Behavioral Interviews](https://github.com/ashishps1/awesome-behavioral-interviews) - Curated resources for mastering behavioral and system design interviews.
+- [ResumeInvited](https://resumeinvited.com/) - Free browser resume builder with local drafts and PDF or Word export, without signup.
 - [Enhancv Data Scientist Resumes](https://enhancv.com/resume-examples/data-scientist/) - A collection of resume examples and tips tailored for data scientists.
 - [Data Science Portfolio](https://www.datascienceportfol.io/) - A platform to create and showcase your data science portfolio.
 - [InterviewBit - SQL Interview Questions](https://www.interviewbit.com/sql-interview-questions/) - Collection of SQL interview questions.
