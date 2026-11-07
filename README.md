@@ -1439,6 +1439,7 @@ A collection of resources for accessing datasets and data sources for analysis a
 - [LLM Datasets](https://github.com/mlabonne/llm-datasets) - A collection of datasets and resources for training and fine-tuning Large Language Models (LLMs).
 - [Unsplash Datasets](https://github.com/unsplash/datasets) - A collection of datasets from Unsplash, useful for computer vision and research.
 - [Awesome JSON Datasets](https://github.com/jdorfman/awesome-json-datasets?tab=readme-ov-file#bitcoin) - A curated list of awesome JSON datasets that are publicly available without authentication.
+- [File Formats Encyclopedia & Dataset](https://github.com/PabloCirre/file-formats-encyclopedia) - Curated open dataset and technical encyclopedia of 100+ file formats, schemas, MIME types, and conversion matrices.
 
 [⬆ back to contents](#contents)
 
