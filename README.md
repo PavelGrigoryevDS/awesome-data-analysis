@@ -1262,7 +1262,8 @@ A collection of resources to enhance productivity.
 - [Puter](https://github.com/HeyPuter/puter) - An open-source, browser-based computing environment and cloud OS.
 - [Milkdown](https://github.com/Milkdown/milkdown) - Plugin-driven, WYSIWYG markdown editor framework inspired by Typora.
 - [PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - AI tool for bilingual scientific PDF translation preserving formulas, charts, and layout.
-
+- [Datinium](https://datinium.com) - A dataset workbench for the desktop.
+  
 [⬆ back to contents](#contents)
 
 ---
