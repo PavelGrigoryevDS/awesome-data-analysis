@@ -1046,6 +1046,7 @@ ogrammatically.
 - [OpenWork](https://github.com/different-ai/openwork) - Open-source desktop alternative to Claude Cowork for running agents, skills, and MCP locally with team collaboration features.
 - [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze) - Agentic LLM for autonomous data science, which can autonomously complete a wide range of data-centric tasks without human intervention.
 
+- [HumanPen](https://humanpen.net) - Research project workspace for scoping, credit-quoted planning, data analysis/literature organization, review, and file/code/chart delivery, with optional budget-capped autonomy and A2A 1.0 & REST APIs (100 signup credits; prohibits ghostwriting coursework/theses/papers).
 
 #### Development Frameworks & Tools
 
