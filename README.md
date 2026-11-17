@@ -448,6 +448,7 @@ Libraries for static, interactive, and 3D visualizations.
 - [Pandas-bokeh](https://github.com/PatrikHlobil/Pandas-Bokeh) - Bokeh plotting backend for Pandas.
 - [QGIS](https://github.com/qgis/QGIS) - Free, open source, cross-platform geographic information system (GIS).
 - [Flourish](https://flourish.studio/) - Platform for creating interactive data visualizations and stories without coding.
+- [framejs.app](https://framejs.app) - Open-source tool for sharing interactive JavaScript visualizations and dashboards as a single URL, with no server, build step, or account.
 
 [⬆ back to contents](#contents)
 
