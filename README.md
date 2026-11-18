@@ -1054,6 +1054,7 @@ ogrammatically.
 - [openai-python](https://github.com/openai/openai-python) - Official Python library for OpenAI API.
 - [openai-agents-python](https://github.com/openai/openai-agents-python) - Official OpenAI framework for building AI agents.
 - [ragflow](https://github.com/infiniflow/ragflow) - Open-source RAG (Retrieval-Augmented Generation) workflow platform.
+- [SpecStream](https://specstream.ai) - Live web data engine for agents, providing Search API, Extract API, and drop-in search provider support.
 - [firecrawl](https://github.com/firecrawl/firecrawl) - Web crawling and data extraction service for AI applications.
 - [Fabric](https://github.com/danielmiessler/Fabric) - Framework for augmenting humans using AI.
 - [Dyad](https://github.com/dyad-sh/dyad) - Open-source platform for building AI applications with custom API keys.
