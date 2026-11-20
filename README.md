@@ -324,6 +324,7 @@ SQL tutorials and database design principles.
 - [AnimateSQL](https://animatesql.com/) - Interactive tool that visualizes the step-by-step execution of SQL queries.
 - [SQL Tips and Tricks](https://github.com/ben-nour/SQL-tips-and-tricks) - Useful SQL techniques and optimizations for data analysis.
 - [Practice Window Functions](https://www.practicewindowfunctions.com) - Free interactive SQL tutorial site focused on mastering window functions through 80+ hands-on problems with hints and solutions.
+- [The Work Gym SQL practice](https://theworkgym.com/sql/) - SQL exercises that run in the browser and are checked as you finish, from SELECT to window functions; first unit free.
 
 [⬆ back to contents](#contents)
 
