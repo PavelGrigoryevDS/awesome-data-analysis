@@ -653,6 +653,7 @@ A collection of tools focused on statistics and probability.
 - [Patsy](https://github.com/pydata/patsy) - A Python library for describing statistical models and building design matrices.
 - [Pomegranate](https://github.com/jmschrei/pomegranate) - Fast and flexible probabilistic modeling library for Python with GPU support.
 - [Pgmpy](https://github.com/pgmpy/pgmpy) - Python library for probabilistic and causal inference using graphical models.
+- [asianscore-quant-sdk](https://github.com/AIYIXIU/asianscore-quant-sdk) - Zero-dependency Python library for Dixon-Coles bivariate Poisson expected-goals (xG) modeling, Power odds de-vigging, fractional Kelly sizing, and multi-class Brier score calibration.
 
 [⬆ back to contents](#contents)
 
