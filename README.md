@@ -1439,6 +1439,7 @@ A collection of resources for accessing datasets and data sources for analysis a
 - [LLM Datasets](https://github.com/mlabonne/llm-datasets) - A collection of datasets and resources for training and fine-tuning Large Language Models (LLMs).
 - [Unsplash Datasets](https://github.com/unsplash/datasets) - A collection of datasets from Unsplash, useful for computer vision and research.
 - [Awesome JSON Datasets](https://github.com/jdorfman/awesome-json-datasets?tab=readme-ov-file#bitcoin) - A curated list of awesome JSON datasets that are publicly available without authentication.
+- [Scigantic](https://scigantic.com/) - Catalog of 8,000+ public scientific datasets that open in a hosted Jupyter notebook with the files mounted read-only, so nothing is downloaded first. Free plan with a shared CPU notebook.
 
 [⬆ back to contents](#contents)
 
