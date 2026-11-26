@@ -625,6 +625,7 @@ A selection of resources focused on statistics and probability, including tutori
 - [Causal Inference: The Mixtape](https://mixtape.scunning.com/) - Practical guide to causal inference methods.
 - [The Effect](https://theeffectbook.net/) - Modern introduction to causality and research design.
 - [The Statistics Handbook](https://github.com/carloocchiena/the_statistics_handbook) - Open-source statistics hands-on handbook.
+- [Compare Journal Weeks With Unequal Notes](https://mindfulclarityguide.com/resources/practical-guides/comparing-journal-weeks-with-unequal-notes.html) - AI-assisted worked example of entry-based and represented-date fractions using fifteen fictional records, with duplicate-record and missing-date checks.
 
 [⬆ back to contents](#contents)
 
