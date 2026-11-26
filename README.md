@@ -1764,6 +1764,7 @@ A wide range of resources and tools designed to facilitate learning, development
 - [Free Certifications](https://github.com/cloudcommunity/Free-Certifications) - Regularly updated list of free certification courses from top cloud and tech companies.
 - [A To Z Resources For Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Comprehensive list of free resources for students learning programming and tech.
 - [Summer Internships](https://github.com/SimplifyJobs/Summer2026-Internships) - Up-to-date list of summer internships in tech with deadline tracking.
+- [Data Scientist Jobs](https://github.com/landedjobs/data-scientist-jobs) - Open data scientist roles in the US, remote and worldwide, refreshed every two days with company stage and level.
 - [Football Analytics](https://github.com/eddwebster/football_analytics) - Open learning course and toolkit for football data analysis with Python and R.
 
 [⬆ back to contents](#contents)
