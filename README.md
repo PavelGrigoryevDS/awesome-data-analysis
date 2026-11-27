@@ -307,6 +307,7 @@ SQL tutorials and database design principles.
 
 - [SQLZoo - SQL Tutorial](https://sqlzoo.net/wiki/SQL_Tutorial) - Interactive SQL tutorial.
 - [SQL Bolt - Learn SQL](https://sqlbolt.com/) - Learn SQL through interactive lessons.
+- [SQL Dojo](https://sqldojo.dev/) - Interactive SQL practice in the browser (DuckDB-WASM, no install) on real datasets, organized as a belt path from the first SELECT to window functions, with spaced reviews, timed interview runs and belt exams.
 - [SQL Tutorial](https://www.sqltutorial.org/) - Comprehensive SQL tutorial resource.
 - [SQL Tutorial by W3Schools.](https://www.w3schools.com/sql/default.asp) - Comprehensive SQL tutorial.
 - [PostgreSQL Tutorial by W3Resource](https://w3resource.com/PostgreSQL/tutorial.php) - Tutorial for PostgreSQL.
