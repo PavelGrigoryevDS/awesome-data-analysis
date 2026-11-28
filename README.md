@@ -1717,6 +1717,7 @@ A curated list of other awesome lists on various topics and technologies.
 - [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Curated list of helpful websites for programmers and engineers.
 - [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - Curated list of creative coding resources and libraries.
 - [Awesome AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance) - Curated list of AI applications, tools, and research in finance.
+- [Awesome Quant Competitions](https://github.com/KonstantinRogozhkin/awesome-quant-competitions) - Curated list of quantitative trading competitions, financial ML benchmarks, student fellowships, and quant interview problems.
 - [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) - Collection of resources for learning and practicing algorithms and data structures.
 - [Awesome Serverless](https://github.com/anaibol/awesome-serverless) - Curated resources for serverless architectures and cloud computing.
 - [Awesome R](https://github.com/qinwf/awesome-R) - Curated list of R packages, frameworks, and learning resources.
